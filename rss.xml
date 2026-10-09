@@ -4,7 +4,70 @@
     <title>AI 热点日报</title>
     <link>https://duslia.github.io/trends/rss.xml</link>
     <description>每日 AI 热点聚合：36氪/少数派/InfoQ/虎嗅/量子位/微信公众号，按天去重，重点覆盖生成视频领域</description>
-    <lastBuildDate>Fri, 09 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <item>
+      <title>今天，Gemini全面杀入AI办公大战</title>
+      <link>https://www.36kr.com/p/4018047075045504</link>
+      <guid>https://www.36kr.com/p/4018047075045504</guid>
+      <pubDate>Sat, 10 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['36氪']｜主题ID：TOP-20261010-001｜收录日期：2026-10-10｜持续 1 天</description>
+    </item>
+    <item>
+      <title>多智能体时代的管理架构与思维</title>
+      <link>https://www.huxiu.com/article/4896301.html</link>
+      <guid>https://www.huxiu.com/article/4896301.html</guid>
+      <pubDate>Sat, 10 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261010-002｜收录日期：2026-10-10｜持续 1 天</description>
+    </item>
+    <item>
+      <title>双线作战，Kimi与DeepSeek上市，如何顶住中国开源模型的“回撤”</title>
+      <link>https://www.huxiu.com/article/4896295.html</link>
+      <guid>https://www.huxiu.com/article/4896295.html</guid>
+      <pubDate>Sat, 10 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261010-003｜收录日期：2026-10-10｜持续 1 天</description>
+    </item>
+    <item>
+      <title>一边造AI，一边挖地堡，硅谷精英们在怕什么</title>
+      <link>https://www.huxiu.com/article/4896289.html</link>
+      <guid>https://www.huxiu.com/article/4896289.html</guid>
+      <pubDate>Sat, 10 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261010-004｜收录日期：2026-10-10｜持续 1 天</description>
+    </item>
+    <item>
+      <title>62岁华勇的冒险：顺网科技的边缘算力赌局</title>
+      <link>https://www.huxiu.com/article/4896284.html</link>
+      <guid>https://www.huxiu.com/article/4896284.html</guid>
+      <pubDate>Sat, 10 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261010-005｜收录日期：2026-10-10｜持续 1 天</description>
+    </item>
+    <item>
+      <title>大厂夹缝中的Manus</title>
+      <link>https://www.huxiu.com/article/4896270.html</link>
+      <guid>https://www.huxiu.com/article/4896270.html</guid>
+      <pubDate>Sat, 10 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261010-006｜收录日期：2026-10-10｜持续 1 天</description>
+    </item>
+    <item>
+      <title>OpenAI ARR大幅低于预期，这个事情有多重要？</title>
+      <link>https://www.huxiu.com/article/4896266.html</link>
+      <guid>https://www.huxiu.com/article/4896266.html</guid>
+      <pubDate>Sat, 10 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261010-007｜收录日期：2026-10-10｜持续 1 天</description>
+    </item>
+    <item>
+      <title>当AI“看人下菜”，该怎么管？</title>
+      <link>https://www.huxiu.com/article/4896252.html</link>
+      <guid>https://www.huxiu.com/article/4896252.html</guid>
+      <pubDate>Sat, 10 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261010-008｜收录日期：2026-10-10｜持续 1 天</description>
+    </item>
+    <item>
+      <title>医疗影像走到分叉口：谁在为「AI读片」买单？</title>
+      <link>https://www.huxiu.com/article/4896233.html</link>
+      <guid>https://www.huxiu.com/article/4896233.html</guid>
+      <pubDate>Sat, 10 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261010-009｜收录日期：2026-10-10｜持续 1 天</description>
+    </item>
     <item>
       <title>AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海</title>
       <link>https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL?utm_source=rss&amp;utm_medium=article</link>
@@ -291,69 +354,6 @@
       <guid>https://www.qbitai.com/2026/10/502125.html</guid>
       <pubDate>Fri, 09 Oct 2026 08:00:00 +0800</pubDate>
       <description>来源：['量子位']｜主题ID：TOP-20261009-039｜收录日期：2026-10-09｜持续 1 天</description>
-    </item>
-    <item>
-      <title>openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业</title>
-      <link>https://www.qbitai.com/2026/10/502106.html</link>
-      <guid>https://www.qbitai.com/2026/10/502106.html</guid>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261009-040｜收录日期：2026-10-09｜持续 1 天</description>
-    </item>
-    <item>
-      <title>代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化</title>
-      <link>https://www.qbitai.com/2026/10/502096.html</link>
-      <guid>https://www.qbitai.com/2026/10/502096.html</guid>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261009-041｜收录日期：2026-10-09｜持续 1 天</description>
-    </item>
-    <item>
-      <title>陶哲轩带头宣战！人类数学家联合抵制OpenAI</title>
-      <link>https://www.qbitai.com/2026/10/502089.html</link>
-      <guid>https://www.qbitai.com/2026/10/502089.html</guid>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261009-042｜收录日期：2026-10-09｜持续 1 天</description>
-    </item>
-    <item>
-      <title>不等Gemini 4了！谷歌发布办公Agent，支持调用Claude</title>
-      <link>https://www.qbitai.com/2026/10/502083.html</link>
-      <guid>https://www.qbitai.com/2026/10/502083.html</guid>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261009-043｜收录日期：2026-10-09｜持续 1 天</description>
-    </item>
-    <item>
-      <title>Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧</title>
-      <link>https://www.infoq.cn/article/e0iQfJNgepz7VigRdD61?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/e0iQfJNgepz7VigRdD61?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261009-044｜收录日期：2026-10-09｜持续 1 天</description>
-    </item>
-    <item>
-      <title>OpenAI 高管亲述：我们是怎么在一周内做出 Jev 竞品的</title>
-      <link>https://www.infoq.cn/article/IRqoPz4cNONlNFBolD9V?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/IRqoPz4cNONlNFBolD9V?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261009-045｜收录日期：2026-10-09｜持续 1 天</description>
-    </item>
-    <item>
-      <title>@ 一下就能派活？谷歌推出办公 Agent，拥有独立账号、能够创建子 Agent，还能调用 Claude</title>
-      <link>https://www.infoq.cn/article/490gIS9Bk0NmylN7GIt1?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/490gIS9Bk0NmylN7GIt1?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261009-046｜收录日期：2026-10-09｜持续 1 天</description>
-    </item>
-    <item>
-      <title>AI 落地，此刻发生 ｜1024 模力工场 AI 社区日，首批报名开启</title>
-      <link>https://www.infoq.cn/article/RicHewwNF5jacSMQNy6O?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/RicHewwNF5jacSMQNy6O?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261009-047｜收录日期：2026-10-09｜持续 1 天</description>
-    </item>
-    <item>
-      <title>App工厂，才是AI时代最被低估的生意</title>
-      <link>https://www.huxiu.com/article/4896230.html</link>
-      <guid>https://www.huxiu.com/article/4896230.html</guid>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261009-048｜收录日期：2026-10-09｜持续 1 天</description>
     </item>
   </channel>
 </rss>
