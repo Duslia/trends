@@ -4,7 +4,77 @@
     <title>AI 热点日报</title>
     <link>https://duslia.github.io/trends/rss.xml</link>
     <description>每日 AI 热点聚合：36氪/少数派/InfoQ/虎嗅/量子位/微信公众号，按天去重，重点覆盖生成视频领域</description>
-    <lastBuildDate>Sat, 10 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <item>
+      <title>王虹攻下的三维挂谷猜想，OpenAI放出175页四维证明稿</title>
+      <link>https://www.36kr.com/p/4019356333002630</link>
+      <guid>https://www.36kr.com/p/4019356333002630</guid>
+      <pubDate>Sun, 11 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['36氪']｜主题ID：TOP-20261011-001｜收录日期：2026-10-11｜持续 1 天</description>
+    </item>
+    <item>
+      <title>20家AI巨头被Vicor拖入专利战</title>
+      <link>https://www.huxiu.com/article/4896561.html</link>
+      <guid>https://www.huxiu.com/article/4896561.html</guid>
+      <pubDate>Sun, 11 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261011-002｜收录日期：2026-10-11｜持续 1 天</description>
+    </item>
+    <item>
+      <title>护栏失守，智能体学会了规避和隐瞒</title>
+      <link>https://www.huxiu.com/article/4896540.html</link>
+      <guid>https://www.huxiu.com/article/4896540.html</guid>
+      <pubDate>Sun, 11 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261011-003｜收录日期：2026-10-11｜持续 1 天</description>
+    </item>
+    <item>
+      <title>历史总是惊人的相似，算力套现最终谁来买单？</title>
+      <link>https://www.huxiu.com/article/4896542.html</link>
+      <guid>https://www.huxiu.com/article/4896542.html</guid>
+      <pubDate>Sun, 11 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261011-004｜收录日期：2026-10-11｜持续 1 天</description>
+    </item>
+    <item>
+      <title>模型降价，企业隐性成本不降反增</title>
+      <link>https://www.huxiu.com/article/4896535.html</link>
+      <guid>https://www.huxiu.com/article/4896535.html</guid>
+      <pubDate>Sun, 11 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261011-005｜收录日期：2026-10-11｜持续 1 天</description>
+    </item>
+    <item>
+      <title>OpenAI倒了一座“屎山”，数学家正捏着鼻子在里面淘金</title>
+      <link>https://www.huxiu.com/article/4896523.html</link>
+      <guid>https://www.huxiu.com/article/4896523.html</guid>
+      <pubDate>Sun, 11 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261011-006｜收录日期：2026-10-11｜持续 1 天</description>
+    </item>
+    <item>
+      <title>章鱼和白蚁：AI 时代的红利，为什么最先被一个人吃到</title>
+      <link>https://www.huxiu.com/article/4896558.html</link>
+      <guid>https://www.huxiu.com/article/4896558.html</guid>
+      <pubDate>Sun, 11 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261011-007｜收录日期：2026-10-11｜持续 1 天</description>
+    </item>
+    <item>
+      <title>单应用月流水200万美元，土耳其游戏老兵用一个AI模板“套”出两个爆款</title>
+      <link>https://www.huxiu.com/article/4896513.html</link>
+      <guid>https://www.huxiu.com/article/4896513.html</guid>
+      <pubDate>Sun, 11 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261011-008｜收录日期：2026-10-11｜持续 1 天</description>
+    </item>
+    <item>
+      <title>28岁姚顺雨坐到马化腾旁边，AI抢人大战抢的其实不是人？</title>
+      <link>https://www.huxiu.com/article/4896512.html</link>
+      <guid>https://www.huxiu.com/article/4896512.html</guid>
+      <pubDate>Sun, 11 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261011-009｜收录日期：2026-10-11｜持续 1 天</description>
+    </item>
+    <item>
+      <title>当黑客也开始“有问题问AI”</title>
+      <link>https://www.huxiu.com/article/4896510.html</link>
+      <guid>https://www.huxiu.com/article/4896510.html</guid>
+      <pubDate>Sun, 11 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261011-010｜收录日期：2026-10-11｜持续 1 天</description>
+    </item>
     <item>
       <title>App工厂，才是AI时代最被低估的生意</title>
       <link>https://www.huxiu.com/article/4896230.html</link>
@@ -284,76 +354,6 @@
       <guid>https://www.huxiu.com/article/4896362.html</guid>
       <pubDate>Sat, 10 Oct 2026 08:00:00 +0800</pubDate>
       <description>来源：['虎嗅']｜主题ID：TOP-20261010-039｜收录日期：2026-10-10｜持续 1 天</description>
-    </item>
-    <item>
-      <title>00后“戒断”AI短剧：一个月卸载了5次</title>
-      <link>https://www.huxiu.com/article/4896306.html</link>
-      <guid>https://www.huxiu.com/article/4896306.html</guid>
-      <pubDate>Sat, 10 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261010-040｜收录日期：2026-10-10｜持续 1 天</description>
-    </item>
-    <item>
-      <title>AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海</title>
-      <link>https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261006-001｜收录日期：2026-10-09｜持续 4 天</description>
-    </item>
-    <item>
-      <title>DataAgent - 快手大数据生产与分析的智能化探索之路｜QCon上海</title>
-      <link>https://www.infoq.cn/article/yVWAQGCZCzI838JESA1b?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/yVWAQGCZCzI838JESA1b?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261008-005｜收录日期：2026-10-09｜持续 2 天</description>
-    </item>
-    <item>
-      <title>派早报：微软发布 Windows 相关新品、Google AI 新闻两则等</title>
-      <link>https://sspai.com/post/115455</link>
-      <guid>https://sspai.com/post/115455</guid>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['少数派']｜主题ID：TOP-20261009-001｜收录日期：2026-10-09｜持续 1 天</description>
-    </item>
-    <item>
-      <title>谷歌借助 AI 与差分模糊测试将 C 语言依赖库改写为 Rust</title>
-      <link>https://www.infoq.cn/article/LVsjSV4pIlh3Liz0KZZE?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/LVsjSV4pIlh3Liz0KZZE?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261009-002｜收录日期：2026-10-09｜持续 1 天</description>
-    </item>
-    <item>
-      <title>OpenAI刚把多Agent做成产品，o1奠基人却说：1万个Agent解出世界级难题，多Agent贡献不到10%</title>
-      <link>https://www.infoq.cn/article/3MSU3CcJuh0XjHDyjhXj?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/3MSU3CcJuh0XjHDyjhXj?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261009-003｜收录日期：2026-10-09｜持续 1 天</description>
-    </item>
-    <item>
-      <title>2万亿美元估值靠什么撑？Anthropic 核心技术负责人：蒸馏会毁掉前沿研发，中美 AI 竞赛不会单边暂停</title>
-      <link>https://www.infoq.cn/article/dS754RhjExrwFP6tWD9d?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/dS754RhjExrwFP6tWD9d?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261009-004｜收录日期：2026-10-09｜持续 1 天</description>
-    </item>
-    <item>
-      <title>苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过</title>
-      <link>https://www.infoq.cn/article/s2Rt9t0yqUFk6VYV33Mh?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/s2Rt9t0yqUFk6VYV33Mh?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261009-005｜收录日期：2026-10-09｜持续 1 天</description>
-    </item>
-    <item>
-      <title>AICon 北京 2026 议题征集启动：寻找把 AI 做进真实生产的人</title>
-      <link>https://www.infoq.cn/article/aJ7cgaNqf4pXVtbbtYiv?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/aJ7cgaNqf4pXVtbbtYiv?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261009-006｜收录日期：2026-10-09｜持续 1 天</description>
-    </item>
-    <item>
-      <title>海外开源模型重新提速：“美版 DeepSeek”第一次交卷，Mistral同时亮牌</title>
-      <link>https://www.infoq.cn/article/0wk4G4cZwbHgYdeNoQPV?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/0wk4G4cZwbHgYdeNoQPV?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261009-007｜收录日期：2026-10-09｜持续 1 天</description>
     </item>
   </channel>
 </rss>
