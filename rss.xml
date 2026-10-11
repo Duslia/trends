@@ -4,7 +4,35 @@
     <title>AI 热点日报</title>
     <link>https://duslia.github.io/trends/rss.xml</link>
     <description>每日 AI 热点聚合：36氪/少数派/InfoQ/虎嗅/量子位/微信公众号，按天去重，重点覆盖生成视频领域</description>
-    <lastBuildDate>Sun, 11 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <item>
+      <title>麻省理工：靠访谈让AI模拟真人，这条路能走多远？</title>
+      <link>https://www.huxiu.com/article/4896590.html</link>
+      <guid>https://www.huxiu.com/article/4896590.html</guid>
+      <pubDate>Mon, 12 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261011-021｜收录日期：2026-10-12｜持续 2 天</description>
+    </item>
+    <item>
+      <title>AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发</title>
+      <link>https://www.36kr.com/p/3990015565708035</link>
+      <guid>https://www.36kr.com/p/3990015565708035</guid>
+      <pubDate>Mon, 12 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['36氪']｜主题ID：TOP-20261012-001｜收录日期：2026-10-12｜持续 1 天</description>
+    </item>
+    <item>
+      <title>贾樟柯开始看红果，AI很热闹、普通人只想“耍起”</title>
+      <link>https://www.huxiu.com/article/4896639.html</link>
+      <guid>https://www.huxiu.com/article/4896639.html</guid>
+      <pubDate>Mon, 12 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261012-002｜收录日期：2026-10-12｜持续 1 天</description>
+    </item>
+    <item>
+      <title>AI到底有没有“灵魂”？</title>
+      <link>https://www.huxiu.com/article/4896637.html</link>
+      <guid>https://www.huxiu.com/article/4896637.html</guid>
+      <pubDate>Mon, 12 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261012-003｜收录日期：2026-10-12｜持续 1 天</description>
+    </item>
     <item>
       <title>王虹攻下的三维挂谷猜想，OpenAI放出175页四维证明稿</title>
       <link>https://www.36kr.com/p/4019356333002630</link>
@@ -144,13 +172,6 @@
       <guid>https://www.huxiu.com/article/4896609.html</guid>
       <pubDate>Sun, 11 Oct 2026 08:00:00 +0800</pubDate>
       <description>来源：['虎嗅']｜主题ID：TOP-20261011-020｜收录日期：2026-10-11｜持续 1 天</description>
-    </item>
-    <item>
-      <title>麻省理工：靠访谈让AI模拟真人，这条路能走多远？</title>
-      <link>https://www.huxiu.com/article/4896590.html</link>
-      <guid>https://www.huxiu.com/article/4896590.html</guid>
-      <pubDate>Sun, 11 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261011-021｜收录日期：2026-10-11｜持续 1 天</description>
     </item>
     <item>
       <title>AI创造的新工作，可能根本轮不到你</title>
@@ -333,27 +354,6 @@
       <guid>https://www.infoq.cn/article/8g9tlaqJFUPrb4oGO00A?utm_source=rss&amp;utm_medium=article</guid>
       <pubDate>Sat, 10 Oct 2026 08:00:00 +0800</pubDate>
       <description>来源：['InfoQ']｜主题ID：TOP-20261010-017｜收录日期：2026-10-10｜持续 1 天</description>
-    </item>
-    <item>
-      <title>Pallas 内核怎么调优？Google 给出的答案是“少信模型，多看寄存器”</title>
-      <link>https://www.infoq.cn/article/kVJUKEcbqhpL2qwpp2Eq?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/kVJUKEcbqhpL2qwpp2Eq?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Sat, 10 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261010-018｜收录日期：2026-10-10｜持续 1 天</description>
-    </item>
-    <item>
-      <title>从 Coding 到 Running：AI Native SRE Agent 的工程实践</title>
-      <link>https://www.infoq.cn/article/o9XwsHUvCjL3eHKT7YPU?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/o9XwsHUvCjL3eHKT7YPU?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Sat, 10 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261010-019｜收录日期：2026-10-10｜持续 1 天</description>
-    </item>
-    <item>
-      <title>企业AI 走向生产环境，如何避免新一轮技术锁定</title>
-      <link>https://www.infoq.cn/article/kPhRafpM3Wr6umvUBPQV?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/kPhRafpM3Wr6umvUBPQV?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Sat, 10 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261010-020｜收录日期：2026-10-10｜持续 1 天</description>
     </item>
   </channel>
 </rss>
