@@ -4,7 +4,63 @@
     <title>AI 热点日报</title>
     <link>https://duslia.github.io/trends/rss.xml</link>
     <description>每日 AI 热点聚合：36氪/少数派/InfoQ/虎嗅/量子位/微信公众号，按天去重，重点覆盖生成视频领域</description>
-    <lastBuildDate>Tue, 13 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <item>
+      <title>《柳叶刀》警告 ：AI比核武器更可能毁灭人类</title>
+      <link>https://www.36kr.com/p/4023950270289544</link>
+      <guid>https://www.36kr.com/p/4023950270289544</guid>
+      <pubDate>Wed, 14 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['36氪']｜主题ID：TOP-20261014-001｜收录日期：2026-10-14｜持续 1 天</description>
+    </item>
+    <item>
+      <title>手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999</title>
+      <link>https://www.infoq.cn/article/p2TobACROBC8UBPlRKXx?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/p2TobACROBC8UBPlRKXx?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Wed, 14 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261014-002｜收录日期：2026-10-14｜持续 1 天</description>
+    </item>
+    <item>
+      <title>国内外大厂疯抢Muse入口，但个人Agent仍是伪命题</title>
+      <link>https://www.huxiu.com/article/4897270.html</link>
+      <guid>https://www.huxiu.com/article/4897270.html</guid>
+      <pubDate>Wed, 14 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261014-003｜收录日期：2026-10-14｜持续 1 天</description>
+    </item>
+    <item>
+      <title>一群东亚做题家，用 AI 反向输出 “卷”：韩国第一、越南第一、北美前五</title>
+      <link>https://www.huxiu.com/article/4897260.html</link>
+      <guid>https://www.huxiu.com/article/4897260.html</guid>
+      <pubDate>Wed, 14 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261014-004｜收录日期：2026-10-14｜持续 1 天</description>
+    </item>
+    <item>
+      <title>《IT时报》22万短剧账单报道引发权威媒体关注 最新：微信上线短剧“千元消费提醒”</title>
+      <link>https://www.huxiu.com/article/4897261.html</link>
+      <guid>https://www.huxiu.com/article/4897261.html</guid>
+      <pubDate>Wed, 14 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261014-005｜收录日期：2026-10-14｜持续 1 天</description>
+    </item>
+    <item>
+      <title>AI入口大战2.0：腾讯、阿里、字节，谁是AI办公的隐形冠军？</title>
+      <link>https://www.huxiu.com/article/4897226.html</link>
+      <guid>https://www.huxiu.com/article/4897226.html</guid>
+      <pubDate>Wed, 14 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261014-006｜收录日期：2026-10-14｜持续 1 天</description>
+    </item>
+    <item>
+      <title>前沿AI正变成“稀缺物资”：中等强国如何避免被美国卡脖子？</title>
+      <link>https://www.huxiu.com/article/4897216.html</link>
+      <guid>https://www.huxiu.com/article/4897216.html</guid>
+      <pubDate>Wed, 14 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261014-007｜收录日期：2026-10-14｜持续 1 天</description>
+    </item>
+    <item>
+      <title>魔法原子具身Agent框架拿下MolmoSpaces全球第一</title>
+      <link>https://www.qbitai.com/2026/10/503107.html</link>
+      <guid>https://www.qbitai.com/2026/10/503107.html</guid>
+      <pubDate>Wed, 14 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['量子位']｜主题ID：TOP-20261014-008｜收录日期：2026-10-14｜持续 1 天</description>
+    </item>
     <item>
       <title>刚刚，小扎发布神秘“西瓜”模型，跑分媲美Opus5.5，口碑却一言难尽</title>
       <link>https://www.huxiu.com/article/4896960.html</link>
@@ -298,62 +354,6 @@
       <guid>https://www.qbitai.com/2026/10/502920.html</guid>
       <pubDate>Tue, 13 Oct 2026 08:00:00 +0800</pubDate>
       <description>来源：['量子位']｜主题ID：TOP-20261013-042｜收录日期：2026-10-13｜持续 1 天</description>
-    </item>
-    <item>
-      <title>“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档</title>
-      <link>https://www.qbitai.com/2026/10/502907.html</link>
-      <guid>https://www.qbitai.com/2026/10/502907.html</guid>
-      <pubDate>Tue, 13 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261013-043｜收录日期：2026-10-13｜持续 1 天</description>
-    </item>
-    <item>
-      <title>9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题</title>
-      <link>https://www.qbitai.com/2026/10/502784.html</link>
-      <guid>https://www.qbitai.com/2026/10/502784.html</guid>
-      <pubDate>Tue, 13 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261013-044｜收录日期：2026-10-13｜持续 1 天</description>
-    </item>
-    <item>
-      <title>单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录</title>
-      <link>https://www.qbitai.com/2026/10/502767.html</link>
-      <guid>https://www.qbitai.com/2026/10/502767.html</guid>
-      <pubDate>Tue, 13 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261013-045｜收录日期：2026-10-13｜持续 1 天</description>
-    </item>
-    <item>
-      <title>2026没过完，已有480亿美元投进了物理AI</title>
-      <link>https://www.qbitai.com/2026/10/502741.html</link>
-      <guid>https://www.qbitai.com/2026/10/502741.html</guid>
-      <pubDate>Tue, 13 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261013-046｜收录日期：2026-10-13｜持续 1 天</description>
-    </item>
-    <item>
-      <title>麻省理工：靠访谈让AI模拟真人，这条路能走多远？</title>
-      <link>https://www.huxiu.com/article/4896590.html</link>
-      <guid>https://www.huxiu.com/article/4896590.html</guid>
-      <pubDate>Mon, 12 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261011-021｜收录日期：2026-10-12｜持续 2 天</description>
-    </item>
-    <item>
-      <title>AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发</title>
-      <link>https://www.36kr.com/p/3990015565708035</link>
-      <guid>https://www.36kr.com/p/3990015565708035</guid>
-      <pubDate>Mon, 12 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['36氪']｜主题ID：TOP-20261012-001｜收录日期：2026-10-12｜持续 1 天</description>
-    </item>
-    <item>
-      <title>贾樟柯开始看红果，AI很热闹、普通人只想“耍起”</title>
-      <link>https://www.huxiu.com/article/4896639.html</link>
-      <guid>https://www.huxiu.com/article/4896639.html</guid>
-      <pubDate>Mon, 12 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261012-002｜收录日期：2026-10-12｜持续 1 天</description>
-    </item>
-    <item>
-      <title>AI到底有没有“灵魂”？</title>
-      <link>https://www.huxiu.com/article/4896637.html</link>
-      <guid>https://www.huxiu.com/article/4896637.html</guid>
-      <pubDate>Mon, 12 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261012-003｜收录日期：2026-10-12｜持续 1 天</description>
     </item>
   </channel>
 </rss>
