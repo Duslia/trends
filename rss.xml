@@ -4,7 +4,84 @@
     <title>AI 热点日报</title>
     <link>https://duslia.github.io/trends/rss.xml</link>
     <description>每日 AI 热点聚合：36氪/少数派/InfoQ/虎嗅/量子位/微信公众号，按天去重，重点覆盖生成视频领域</description>
-    <lastBuildDate>Thu, 15 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <item>
+      <title>AI，正在颠覆制药行业？</title>
+      <link>https://www.36kr.com/p/4026618302124677</link>
+      <guid>https://www.36kr.com/p/4026618302124677</guid>
+      <pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['36氪']｜主题ID：TOP-20261016-001｜收录日期：2026-10-16｜持续 1 天</description>
+    </item>
+    <item>
+      <title>拍照和翻译救不了AI眼镜？千问2218元起推新硬件，要抢现实世界里的上下文</title>
+      <link>https://www.infoq.cn/article/wMMAbsA4UOtYlAl1fH4T?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/wMMAbsA4UOtYlAl1fH4T?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261016-002｜收录日期：2026-10-16｜持续 1 天</description>
+    </item>
+    <item>
+      <title>阶跃星辰开放 Step 5 Preview 权重：长程 Agent 的竞争，延伸到上下文管理与训练系统</title>
+      <link>https://www.infoq.cn/article/EwqsJX6f03ODRac6Kk4c?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/EwqsJX6f03ODRac6Kk4c?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261016-003｜收录日期：2026-10-16｜持续 1 天</description>
+    </item>
+    <item>
+      <title>蚂蚁百灵开源 560B 模型 Ling-3.0-flash：0.19 美元搞定复杂工作流</title>
+      <link>https://www.infoq.cn/article/SxQO3Aw6JCTgNMTGPPE8?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/SxQO3Aw6JCTgNMTGPPE8?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261016-004｜收录日期：2026-10-16｜持续 1 天</description>
+    </item>
+    <item>
+      <title>黄仁勋谈中国 AI 公司：算力很缺，但他们就是在拼命把事情做成</title>
+      <link>https://www.infoq.cn/article/HC8SAgaZmHc6sfwp9gc9?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/HC8SAgaZmHc6sfwp9gc9?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261016-005｜收录日期：2026-10-16｜持续 1 天</description>
+    </item>
+    <item>
+      <title>AI 侦察团集结 QCon 上海：企业一号位，如何把 AI 从试点带进业务？</title>
+      <link>https://www.infoq.cn/article/GSZMrydgKuejLcCpEGYb?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/GSZMrydgKuejLcCpEGYb?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261016-006｜收录日期：2026-10-16｜持续 1 天</description>
+    </item>
+    <item>
+      <title>横店花2.35亿携手火山，要建一座“AI影视城”</title>
+      <link>https://www.huxiu.com/article/4897872.html</link>
+      <guid>https://www.huxiu.com/article/4897872.html</guid>
+      <pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261016-007｜收录日期：2026-10-16｜持续 1 天</description>
+    </item>
+    <item>
+      <title>为什么Anthropic不做Personal AI</title>
+      <link>https://www.huxiu.com/article/4897847.html</link>
+      <guid>https://www.huxiu.com/article/4897847.html</guid>
+      <pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261016-008｜收录日期：2026-10-16｜持续 1 天</description>
+    </item>
+    <item>
+      <title>库克：国行苹果AI将于10月发测试版，不再让中国用户等了？</title>
+      <link>https://www.huxiu.com/article/4897830.html</link>
+      <guid>https://www.huxiu.com/article/4897830.html</guid>
+      <pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261016-009｜收录日期：2026-10-16｜持续 1 天</description>
+    </item>
+    <item>
+      <title>CoreWeave，撕开了AI算力债务狂欢的第一道裂缝</title>
+      <link>https://www.huxiu.com/article/4897817.html</link>
+      <guid>https://www.huxiu.com/article/4897817.html</guid>
+      <pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261016-010｜收录日期：2026-10-16｜持续 1 天</description>
+    </item>
+    <item>
+      <title>马斯克：过去1年，经历了6次“AI精神病”</title>
+      <link>https://www.huxiu.com/article/4897812.html</link>
+      <guid>https://www.huxiu.com/article/4897812.html</guid>
+      <pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261016-011｜收录日期：2026-10-16｜持续 1 天</description>
+    </item>
     <item>
       <title>AI创业，道德有价值吗？</title>
       <link>https://www.huxiu.com/article/4897442.html</link>
@@ -277,83 +354,6 @@
       <guid>https://www.36kr.com/p/4023950270289544</guid>
       <pubDate>Wed, 14 Oct 2026 08:00:00 +0800</pubDate>
       <description>来源：['36氪']｜主题ID：TOP-20261014-001｜收录日期：2026-10-14｜持续 1 天</description>
-    </item>
-    <item>
-      <title>手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999</title>
-      <link>https://www.infoq.cn/article/p2TobACROBC8UBPlRKXx?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/p2TobACROBC8UBPlRKXx?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Wed, 14 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261014-002｜收录日期：2026-10-14｜持续 1 天</description>
-    </item>
-    <item>
-      <title>国内外大厂疯抢Muse入口，但个人Agent仍是伪命题</title>
-      <link>https://www.huxiu.com/article/4897270.html</link>
-      <guid>https://www.huxiu.com/article/4897270.html</guid>
-      <pubDate>Wed, 14 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261014-003｜收录日期：2026-10-14｜持续 1 天</description>
-    </item>
-    <item>
-      <title>一群东亚做题家，用 AI 反向输出 “卷”：韩国第一、越南第一、北美前五</title>
-      <link>https://www.huxiu.com/article/4897260.html</link>
-      <guid>https://www.huxiu.com/article/4897260.html</guid>
-      <pubDate>Wed, 14 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261014-004｜收录日期：2026-10-14｜持续 1 天</description>
-    </item>
-    <item>
-      <title>《IT时报》22万短剧账单报道引发权威媒体关注 最新：微信上线短剧“千元消费提醒”</title>
-      <link>https://www.huxiu.com/article/4897261.html</link>
-      <guid>https://www.huxiu.com/article/4897261.html</guid>
-      <pubDate>Wed, 14 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261014-005｜收录日期：2026-10-14｜持续 1 天</description>
-    </item>
-    <item>
-      <title>AI入口大战2.0：腾讯、阿里、字节，谁是AI办公的隐形冠军？</title>
-      <link>https://www.huxiu.com/article/4897226.html</link>
-      <guid>https://www.huxiu.com/article/4897226.html</guid>
-      <pubDate>Wed, 14 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261014-006｜收录日期：2026-10-14｜持续 1 天</description>
-    </item>
-    <item>
-      <title>前沿AI正变成“稀缺物资”：中等强国如何避免被美国卡脖子？</title>
-      <link>https://www.huxiu.com/article/4897216.html</link>
-      <guid>https://www.huxiu.com/article/4897216.html</guid>
-      <pubDate>Wed, 14 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261014-007｜收录日期：2026-10-14｜持续 1 天</description>
-    </item>
-    <item>
-      <title>魔法原子具身Agent框架拿下MolmoSpaces全球第一</title>
-      <link>https://www.qbitai.com/2026/10/503107.html</link>
-      <guid>https://www.qbitai.com/2026/10/503107.html</guid>
-      <pubDate>Wed, 14 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261014-008｜收录日期：2026-10-14｜持续 1 天</description>
-    </item>
-    <item>
-      <title>大厂醒悟了，卷模型不如卖芯片</title>
-      <link>https://www.36kr.com/p/4025420791172992</link>
-      <guid>https://www.36kr.com/p/4025420791172992</guid>
-      <pubDate>Wed, 14 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['36氪']｜主题ID：TOP-20261014-009｜收录日期：2026-10-14｜持续 1 天</description>
-    </item>
-    <item>
-      <title>苹果一口气甩12款“果家”新品，HomeView登场：Siri AI接管全屋</title>
-      <link>https://www.36kr.com/p/4025056096817028</link>
-      <guid>https://www.36kr.com/p/4025056096817028</guid>
-      <pubDate>Wed, 14 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['36氪']｜主题ID：TOP-20261014-010｜收录日期：2026-10-14｜持续 1 天</description>
-    </item>
-    <item>
-      <title>腾讯、字节、阿里的AI墓园，越来越挤了</title>
-      <link>https://www.36kr.com/p/4024947420712835</link>
-      <guid>https://www.36kr.com/p/4024947420712835</guid>
-      <pubDate>Wed, 14 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['36氪']｜主题ID：TOP-20261014-011｜收录日期：2026-10-14｜持续 1 天</description>
-    </item>
-    <item>
-      <title>8点1氪丨茶百道涉IPO欺诈，被暂停交易；苹果连夜发布3款智能家居新品，总市值再创历史新高；DeepSeek将完成1000亿元融资</title>
-      <link>https://www.36kr.com/p/4025027267580036</link>
-      <guid>https://www.36kr.com/p/4025027267580036</guid>
-      <pubDate>Wed, 14 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['36氪']｜主题ID：TOP-20261014-012｜收录日期：2026-10-14｜持续 1 天</description>
     </item>
   </channel>
 </rss>
