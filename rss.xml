@@ -4,13 +4,76 @@
     <title>AI 热点日报</title>
     <link>https://duslia.github.io/trends/rss.xml</link>
     <description>每日 AI 热点聚合：36氪/少数派/InfoQ/虎嗅/量子位/微信公众号，按天去重，重点覆盖生成视频领域</description>
-    <lastBuildDate>Sat, 17 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 08:00:00 +0800</lastBuildDate>
     <item>
       <title>范式智能联合睿思智联推出开源一站式生产级AI部署平台 “模域ModelSphere”</title>
       <link>https://www.infoq.cn/article/VZPlIIdGRg062mgwJe5y?utm_source=rss&amp;utm_medium=article</link>
       <guid>https://www.infoq.cn/article/VZPlIIdGRg062mgwJe5y?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261016-017｜收录日期：2026-10-17｜持续 2 天</description>
+      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261016-017｜收录日期：2026-10-18｜持续 3 天</description>
+    </item>
+    <item>
+      <title>Tibo的Codex翻盘记：接手不到一年就吞掉了ChatGPT</title>
+      <link>https://www.36kr.com/p/4029486628327811</link>
+      <guid>https://www.36kr.com/p/4029486628327811</guid>
+      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['36氪']｜主题ID：TOP-20261018-001｜收录日期：2026-10-18｜持续 1 天</description>
+    </item>
+    <item>
+      <title>小红书的AI，开始和自己的生意算账</title>
+      <link>https://www.huxiu.com/article/4898344.html</link>
+      <guid>https://www.huxiu.com/article/4898344.html</guid>
+      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261018-002｜收录日期：2026-10-18｜持续 1 天</description>
+    </item>
+    <item>
+      <title>巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润</title>
+      <link>https://www.huxiu.com/article/4898339.html</link>
+      <guid>https://www.huxiu.com/article/4898339.html</guid>
+      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261018-003｜收录日期：2026-10-18｜持续 1 天</description>
+    </item>
+    <item>
+      <title>动辄千集的AI短剧，越长越赚钱？</title>
+      <link>https://www.huxiu.com/article/4898336.html</link>
+      <guid>https://www.huxiu.com/article/4898336.html</guid>
+      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261018-004｜收录日期：2026-10-18｜持续 1 天</description>
+    </item>
+    <item>
+      <title>AI黑客大行其道，AV女优都转码了</title>
+      <link>https://www.huxiu.com/article/4898334.html</link>
+      <guid>https://www.huxiu.com/article/4898334.html</guid>
+      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261018-005｜收录日期：2026-10-18｜持续 1 天</description>
+    </item>
+    <item>
+      <title>我还能比AI干得更好吗？</title>
+      <link>https://www.huxiu.com/article/4898303.html</link>
+      <guid>https://www.huxiu.com/article/4898303.html</guid>
+      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261018-006｜收录日期：2026-10-18｜持续 1 天</description>
+    </item>
+    <item>
+      <title>突发！DeepSeek新模型发布，超级性价比斩杀一切</title>
+      <link>https://www.qbitai.com/2026/10/504067.html</link>
+      <guid>https://www.qbitai.com/2026/10/504067.html</guid>
+      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['量子位']｜主题ID：TOP-20261018-007｜收录日期：2026-10-18｜持续 1 天</description>
+    </item>
+    <item>
+      <title>智谱新模型，懂法方面全球第一了</title>
+      <link>https://www.qbitai.com/2026/10/503965.html</link>
+      <guid>https://www.qbitai.com/2026/10/503965.html</guid>
+      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['量子位']｜主题ID：TOP-20261018-008｜收录日期：2026-10-18｜持续 1 天</description>
+    </item>
+    <item>
+      <title>清华开源！智能体操作系统任务成本降83%，AI记忆可查可改</title>
+      <link>https://www.qbitai.com/2026/10/503935.html</link>
+      <guid>https://www.qbitai.com/2026/10/503935.html</guid>
+      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['量子位']｜主题ID：TOP-20261018-009｜收录日期：2026-10-18｜持续 1 天</description>
     </item>
     <item>
       <title>美光崛起背后：美国内存“独苗”的生存战、资本博弈与AI重生</title>
@@ -291,69 +354,6 @@
       <guid>https://www.huxiu.com/article/4897847.html</guid>
       <pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate>
       <description>来源：['虎嗅']｜主题ID：TOP-20261016-008｜收录日期：2026-10-16｜持续 1 天</description>
-    </item>
-    <item>
-      <title>库克：国行苹果AI将于10月发测试版，不再让中国用户等了？</title>
-      <link>https://www.huxiu.com/article/4897830.html</link>
-      <guid>https://www.huxiu.com/article/4897830.html</guid>
-      <pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261016-009｜收录日期：2026-10-16｜持续 1 天</description>
-    </item>
-    <item>
-      <title>CoreWeave，撕开了AI算力债务狂欢的第一道裂缝</title>
-      <link>https://www.huxiu.com/article/4897817.html</link>
-      <guid>https://www.huxiu.com/article/4897817.html</guid>
-      <pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261016-010｜收录日期：2026-10-16｜持续 1 天</description>
-    </item>
-    <item>
-      <title>马斯克：过去1年，经历了6次“AI精神病”</title>
-      <link>https://www.huxiu.com/article/4897812.html</link>
-      <guid>https://www.huxiu.com/article/4897812.html</guid>
-      <pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261016-011｜收录日期：2026-10-16｜持续 1 天</description>
-    </item>
-    <item>
-      <title>刚刚，Meta亮出美国最强开源权重模型，两台Mac Studio就能跑</title>
-      <link>https://www.36kr.com/p/4027808045224326</link>
-      <guid>https://www.36kr.com/p/4027808045224326</guid>
-      <pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['36氪']｜主题ID：TOP-20261016-012｜收录日期：2026-10-16｜持续 1 天</description>
-    </item>
-    <item>
-      <title>8点1氪丨三部门联合调查“尊界V800汽车刹车踏板支架断裂问题”；国内一半AI算力被指在造爽剧；台积电第三季度净利润7631亿元台币</title>
-      <link>https://www.36kr.com/p/4027802678186372</link>
-      <guid>https://www.36kr.com/p/4027802678186372</guid>
-      <pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['36氪']｜主题ID：TOP-20261016-013｜收录日期：2026-10-16｜持续 1 天</description>
-    </item>
-    <item>
-      <title>聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行</title>
-      <link>https://www.infoq.cn/article/1XtKjZ1OCyrYTCmb4Zkb?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/1XtKjZ1OCyrYTCmb4Zkb?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261016-014｜收录日期：2026-10-16｜持续 1 天</description>
-    </item>
-    <item>
-      <title>生产级大模型平台工程实战手册</title>
-      <link>https://www.infoq.cn/article/xQLd004RGWrzFhwqBOyC?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/xQLd004RGWrzFhwqBOyC?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261016-015｜收录日期：2026-10-16｜持续 1 天</description>
-    </item>
-    <item>
-      <title>AI 生成的代码，怎么才能进得了工程体系？</title>
-      <link>https://www.infoq.cn/article/8iKz8xNQvxDfeuxH1QLA?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/8iKz8xNQvxDfeuxH1QLA?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261016-016｜收录日期：2026-10-16｜持续 1 天</description>
-    </item>
-    <item>
-      <title>Pi 抛出全新 Agent Harness，还把自己骂了一年的 MCP 装进了核心</title>
-      <link>https://www.infoq.cn/article/hQOHf1ZXoBs7uMpWJQss?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/hQOHf1ZXoBs7uMpWJQss?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261016-018｜收录日期：2026-10-16｜持续 1 天</description>
     </item>
   </channel>
 </rss>
