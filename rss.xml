@@ -4,13 +4,69 @@
     <title>AI 热点日报</title>
     <link>https://duslia.github.io/trends/rss.xml</link>
     <description>每日 AI 热点聚合：36氪/少数派/InfoQ/虎嗅/量子位/微信公众号，按天去重，重点覆盖生成视频领域</description>
-    <lastBuildDate>Sun, 18 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 08:00:00 +0800</lastBuildDate>
     <item>
       <title>范式智能联合睿思智联推出开源一站式生产级AI部署平台 “模域ModelSphere”</title>
       <link>https://www.infoq.cn/article/VZPlIIdGRg062mgwJe5y?utm_source=rss&amp;utm_medium=article</link>
       <guid>https://www.infoq.cn/article/VZPlIIdGRg062mgwJe5y?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261016-017｜收录日期：2026-10-18｜持续 3 天</description>
+      <pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261016-017｜收录日期：2026-10-19｜持续 4 天</description>
+    </item>
+    <item>
+      <title>动辄千集的AI短剧，越长越赚钱？</title>
+      <link>https://www.huxiu.com/article/4898336.html</link>
+      <guid>https://www.huxiu.com/article/4898336.html</guid>
+      <pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261018-004｜收录日期：2026-10-19｜持续 2 天</description>
+    </item>
+    <item>
+      <title>重磅！OpenAI之后，AI再破广义黎曼猜想</title>
+      <link>https://www.36kr.com/p/4031090627858820</link>
+      <guid>https://www.36kr.com/p/4031090627858820</guid>
+      <pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['36氪']｜主题ID：TOP-20261019-001｜收录日期：2026-10-19｜持续 1 天</description>
+    </item>
+    <item>
+      <title>还没IPO，OpenAI 600名员工已套现66亿美元</title>
+      <link>https://www.36kr.com/p/4030896887387784</link>
+      <guid>https://www.36kr.com/p/4030896887387784</guid>
+      <pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['36氪']｜主题ID：TOP-20261019-002｜收录日期：2026-10-19｜持续 1 天</description>
+    </item>
+    <item>
+      <title>Meta 联手苹果推出全美最强开源模型，编码基测输给智谱、Kimi</title>
+      <link>https://www.infoq.cn/article/EuYOPRUBAeBgBGBu5ktk?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/EuYOPRUBAeBgBGBu5ktk?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261019-003｜收录日期：2026-10-19｜持续 1 天</description>
+    </item>
+    <item>
+      <title>当AI进入城市：城市发展的范式转向与治理重构</title>
+      <link>https://www.huxiu.com/article/4898451.html</link>
+      <guid>https://www.huxiu.com/article/4898451.html</guid>
+      <pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261019-004｜收录日期：2026-10-19｜持续 1 天</description>
+    </item>
+    <item>
+      <title>你买的新iPhone沉在霍尔木兹海峡了？恭喜你又被AI新闻给骗了。</title>
+      <link>https://www.huxiu.com/article/4898442.html</link>
+      <guid>https://www.huxiu.com/article/4898442.html</guid>
+      <pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261019-005｜收录日期：2026-10-19｜持续 1 天</description>
+    </item>
+    <item>
+      <title>多米诺骨牌推到哪里了？</title>
+      <link>https://www.huxiu.com/article/4898413.html</link>
+      <guid>https://www.huxiu.com/article/4898413.html</guid>
+      <pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261019-006｜收录日期：2026-10-19｜持续 1 天</description>
+    </item>
+    <item>
+      <title>微信，静悄悄地AI化</title>
+      <link>https://www.huxiu.com/article/4898417.html</link>
+      <guid>https://www.huxiu.com/article/4898417.html</guid>
+      <pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261019-007｜收录日期：2026-10-19｜持续 1 天</description>
     </item>
     <item>
       <title>Tibo的Codex翻盘记：接手不到一年就吞掉了ChatGPT</title>
@@ -32,13 +88,6 @@
       <guid>https://www.huxiu.com/article/4898339.html</guid>
       <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
       <description>来源：['虎嗅']｜主题ID：TOP-20261018-003｜收录日期：2026-10-18｜持续 1 天</description>
-    </item>
-    <item>
-      <title>动辄千集的AI短剧，越长越赚钱？</title>
-      <link>https://www.huxiu.com/article/4898336.html</link>
-      <guid>https://www.huxiu.com/article/4898336.html</guid>
-      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261018-004｜收录日期：2026-10-18｜持续 1 天</description>
     </item>
     <item>
       <title>AI黑客大行其道，AV女优都转码了</title>
@@ -305,55 +354,6 @@
       <guid>https://www.huxiu.com/article/4898292.html</guid>
       <pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate>
       <description>来源：['虎嗅']｜主题ID：TOP-20261017-016｜收录日期：2026-10-17｜持续 1 天</description>
-    </item>
-    <item>
-      <title>腾讯网易停运的游戏陆续复活，仿佛雨后春笋：都怪AI？</title>
-      <link>https://www.huxiu.com/article/4898284.html</link>
-      <guid>https://www.huxiu.com/article/4898284.html</guid>
-      <pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261017-017｜收录日期：2026-10-17｜持续 1 天</description>
-    </item>
-    <item>
-      <title>深度 | 苹果 AI 还有牌，但已经不太够了</title>
-      <link>https://www.huxiu.com/article/4898277.html</link>
-      <guid>https://www.huxiu.com/article/4898277.html</guid>
-      <pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261017-018｜收录日期：2026-10-17｜持续 1 天</description>
-    </item>
-    <item>
-      <title>就在下周，Meta财报打头阵，AI巨额投资迎“信心大考”</title>
-      <link>https://www.huxiu.com/article/4898271.html</link>
-      <guid>https://www.huxiu.com/article/4898271.html</guid>
-      <pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261017-019｜收录日期：2026-10-17｜持续 1 天</description>
-    </item>
-    <item>
-      <title>AI 开始动摇苹果 App Store 的根基了</title>
-      <link>https://www.huxiu.com/article/4898267.html</link>
-      <guid>https://www.huxiu.com/article/4898267.html</guid>
-      <pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261017-020｜收录日期：2026-10-17｜持续 1 天</description>
-    </item>
-    <item>
-      <title>热点｜员工用AI辅助办公被辞退，法院判了：公司违法，合同继续履行</title>
-      <link>https://www.huxiu.com/article/4898263.html</link>
-      <guid>https://www.huxiu.com/article/4898263.html</guid>
-      <pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261017-021｜收录日期：2026-10-17｜持续 1 天</description>
-    </item>
-    <item>
-      <title>被封杀的“大结果之母”，靠AI卷土重来赚了三百万</title>
-      <link>https://www.huxiu.com/article/4898264.html</link>
-      <guid>https://www.huxiu.com/article/4898264.html</guid>
-      <pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261017-022｜收录日期：2026-10-17｜持续 1 天</description>
-    </item>
-    <item>
-      <title>Anthropic秘密推动前沿AI监管立法</title>
-      <link>https://www.huxiu.com/article/4898222.html</link>
-      <guid>https://www.huxiu.com/article/4898222.html</guid>
-      <pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261017-023｜收录日期：2026-10-17｜持续 1 天</description>
     </item>
   </channel>
 </rss>
