@@ -4,7 +4,70 @@
     <title>AI 热点日报</title>
     <link>https://duslia.github.io/trends/rss.xml</link>
     <description>每日 AI 热点聚合：36氪/少数派/InfoQ/虎嗅/量子位/微信公众号，按天去重，重点覆盖生成视频领域</description>
-    <lastBuildDate>Mon, 19 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Jev迎来中国挑战者：StartLux登顶决策模型榜单，还学会了“拿不准再想”</title>
+      <link>https://www.infoq.cn/article/bROfcYFpijQQVBz4NqDi?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/bROfcYFpijQQVBz4NqDi?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261020-001｜收录日期：2026-10-20｜持续 1 天</description>
+    </item>
+    <item>
+      <title>四战短剧：绿泡泡，凭什么，怕什么？</title>
+      <link>https://www.huxiu.com/article/4898762.html</link>
+      <guid>https://www.huxiu.com/article/4898762.html</guid>
+      <pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261020-002｜收录日期：2026-10-20｜持续 1 天</description>
+    </item>
+    <item>
+      <title>Cue一周实测｜给AI配了身份证，却还做不到“随时可用”</title>
+      <link>https://www.huxiu.com/article/4898743.html</link>
+      <guid>https://www.huxiu.com/article/4898743.html</guid>
+      <pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261020-003｜收录日期：2026-10-20｜持续 1 天</description>
+    </item>
+    <item>
+      <title>Salesforce为什么买Listen Labs：AI 访谈、合成用户，市场研究的新链条</title>
+      <link>https://www.huxiu.com/article/4898733.html</link>
+      <guid>https://www.huxiu.com/article/4898733.html</guid>
+      <pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261020-004｜收录日期：2026-10-20｜持续 1 天</description>
+    </item>
+    <item>
+      <title>一眼AI 的App 到底是谁会付费啊</title>
+      <link>https://www.huxiu.com/article/4898723.html</link>
+      <guid>https://www.huxiu.com/article/4898723.html</guid>
+      <pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261020-005｜收录日期：2026-10-20｜持续 1 天</description>
+    </item>
+    <item>
+      <title>品牌AI投资学：模型可以租，学习租不到</title>
+      <link>https://www.huxiu.com/article/4898714.html</link>
+      <guid>https://www.huxiu.com/article/4898714.html</guid>
+      <pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261020-006｜收录日期：2026-10-20｜持续 1 天</description>
+    </item>
+    <item>
+      <title>不急着造药，先造“数字人”：AI制药转向，中美都在抢跑</title>
+      <link>https://www.huxiu.com/article/4898711.html</link>
+      <guid>https://www.huxiu.com/article/4898711.html</guid>
+      <pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261020-007｜收录日期：2026-10-20｜持续 1 天</description>
+    </item>
+    <item>
+      <title>AI逼出一场“从电到光”的计算革命</title>
+      <link>https://www.huxiu.com/article/4898710.html</link>
+      <guid>https://www.huxiu.com/article/4898710.html</guid>
+      <pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261020-008｜收录日期：2026-10-20｜持续 1 天</description>
+    </item>
+    <item>
+      <title>AI短剧“杀不死”游戏</title>
+      <link>https://www.huxiu.com/article/4898707.html</link>
+      <guid>https://www.huxiu.com/article/4898707.html</guid>
+      <pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261020-009｜收录日期：2026-10-20｜持续 1 天</description>
+    </item>
     <item>
       <title>范式智能联合睿思智联推出开源一站式生产级AI部署平台 “模域ModelSphere”</title>
       <link>https://www.infoq.cn/article/VZPlIIdGRg062mgwJe5y?utm_source=rss&amp;utm_medium=article</link>
@@ -291,69 +354,6 @@
       <guid>https://www.36kr.com/p/3987041583676160</guid>
       <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
       <description>来源：['36氪']｜主题ID：TOP-20261018-012｜收录日期：2026-10-18｜持续 1 天</description>
-    </item>
-    <item>
-      <title>路由的威力：AI的长尾博弈里谁能通吃？</title>
-      <link>https://www.36kr.com/p/3993327066151944</link>
-      <guid>https://www.36kr.com/p/3993327066151944</guid>
-      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['36氪']｜主题ID：TOP-20261018-013｜收录日期：2026-10-18｜持续 1 天</description>
-    </item>
-    <item>
-      <title>“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海</title>
-      <link>https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261018-014｜收录日期：2026-10-18｜持续 1 天</description>
-    </item>
-    <item>
-      <title>传音的AI，不是用来涨价的</title>
-      <link>https://www.huxiu.com/article/4898412.html</link>
-      <guid>https://www.huxiu.com/article/4898412.html</guid>
-      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261018-015｜收录日期：2026-10-18｜持续 1 天</description>
-    </item>
-    <item>
-      <title>从记者到千亿富豪，“最牛文科生”赌中AI</title>
-      <link>https://www.huxiu.com/article/4898406.html</link>
-      <guid>https://www.huxiu.com/article/4898406.html</guid>
-      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261018-016｜收录日期：2026-10-18｜持续 1 天</description>
-    </item>
-    <item>
-      <title>人人都在谈Agent，谁愿意把事情交给它？</title>
-      <link>https://www.huxiu.com/article/4898403.html</link>
-      <guid>https://www.huxiu.com/article/4898403.html</guid>
-      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261018-017｜收录日期：2026-10-18｜持续 1 天</description>
-    </item>
-    <item>
-      <title>AI时代来临，我却琢磨手搓游记</title>
-      <link>https://www.huxiu.com/article/4898396.html</link>
-      <guid>https://www.huxiu.com/article/4898396.html</guid>
-      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261018-018｜收录日期：2026-10-18｜持续 1 天</description>
-    </item>
-    <item>
-      <title>Alexandr Wang揭秘Muse诞生内幕</title>
-      <link>https://www.huxiu.com/article/4898380.html</link>
-      <guid>https://www.huxiu.com/article/4898380.html</guid>
-      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261018-019｜收录日期：2026-10-18｜持续 1 天</description>
-    </item>
-    <item>
-      <title>长鑫科技，出手物理AI芯片企业</title>
-      <link>https://www.huxiu.com/article/4898385.html</link>
-      <guid>https://www.huxiu.com/article/4898385.html</guid>
-      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261018-020｜收录日期：2026-10-18｜持续 1 天</description>
-    </item>
-    <item>
-      <title>AI安全的漏洞，可能就在你家｜《第一性思考》15</title>
-      <link>https://www.huxiu.com/article/4898371.html</link>
-      <guid>https://www.huxiu.com/article/4898371.html</guid>
-      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261018-021｜收录日期：2026-10-18｜持续 1 天</description>
     </item>
   </channel>
 </rss>
