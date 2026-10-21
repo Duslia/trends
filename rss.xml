@@ -4,7 +4,70 @@
     <title>AI 热点日报</title>
     <link>https://duslia.github.io/trends/rss.xml</link>
     <description>每日 AI 热点聚合：36氪/少数派/InfoQ/虎嗅/量子位/微信公众号，按天去重，重点覆盖生成视频领域</description>
-    <lastBuildDate>Wed, 21 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <item>
+      <title>对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型</title>
+      <link>https://www.infoq.cn/article/XxOpQpEMZpdCCYhXxgaE?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/XxOpQpEMZpdCCYhXxgaE?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261022-001｜收录日期：2026-10-22｜持续 1 天</description>
+    </item>
+    <item>
+      <title>当IP把自己封装成AI：卖技能的套利、泡沫与真人壁垒</title>
+      <link>https://www.huxiu.com/article/4899411.html</link>
+      <guid>https://www.huxiu.com/article/4899411.html</guid>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261022-002｜收录日期：2026-10-22｜持续 1 天</description>
+    </item>
+    <item>
+      <title>红果与绿泡泡之争，腾讯这次能赢吗？</title>
+      <link>https://www.huxiu.com/article/4899379.html</link>
+      <guid>https://www.huxiu.com/article/4899379.html</guid>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261022-003｜收录日期：2026-10-22｜持续 1 天</description>
+    </item>
+    <item>
+      <title>中国人能飞，中国AI手机更能干</title>
+      <link>https://www.huxiu.com/article/4899397.html</link>
+      <guid>https://www.huxiu.com/article/4899397.html</guid>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261022-004｜收录日期：2026-10-22｜持续 1 天</description>
+    </item>
+    <item>
+      <title>3大巨头、19款应用，争抢AI时代的第一张船票</title>
+      <link>https://www.huxiu.com/article/4899386.html</link>
+      <guid>https://www.huxiu.com/article/4899386.html</guid>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261022-005｜收录日期：2026-10-22｜持续 1 天</description>
+    </item>
+    <item>
+      <title>AI超创”抄袭“首案：《信托追踪者》VS《血誓》，纷争过后，谁来裁定漫剧原创边界？</title>
+      <link>https://www.huxiu.com/article/4899366.html</link>
+      <guid>https://www.huxiu.com/article/4899366.html</guid>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261022-006｜收录日期：2026-10-22｜持续 1 天</description>
+    </item>
+    <item>
+      <title>观察｜AI写的代码，人类来不及审：英伟达1.2万行代码优化Kimi K3，另开新战场？</title>
+      <link>https://www.huxiu.com/article/4899364.html</link>
+      <guid>https://www.huxiu.com/article/4899364.html</guid>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261022-007｜收录日期：2026-10-22｜持续 1 天</description>
+    </item>
+    <item>
+      <title>全球央行集体评估AI，他们到底在关心什么？</title>
+      <link>https://www.huxiu.com/article/4899354.html</link>
+      <guid>https://www.huxiu.com/article/4899354.html</guid>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261022-008｜收录日期：2026-10-22｜持续 1 天</description>
+    </item>
+    <item>
+      <title>AI移植游戏爆了，手游厂商该慌了</title>
+      <link>https://www.huxiu.com/article/4899328.html</link>
+      <guid>https://www.huxiu.com/article/4899328.html</guid>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261022-009｜收录日期：2026-10-22｜持续 1 天</description>
+    </item>
     <item>
       <title>比 Opus 5.5 便宜 88 倍！MiniMax M3.1 Flash “杀“回王座，顺手拿了个  Agent 国模第一</title>
       <link>https://www.infoq.cn/article/7Twa7KBWIzi8JGOdVwCK?utm_source=rss&amp;utm_medium=article</link>
@@ -291,69 +354,6 @@
       <guid>https://www.qbitai.com/2026/10/504456.html</guid>
       <pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate>
       <description>来源：['量子位']｜主题ID：TOP-20261021-041｜收录日期：2026-10-21｜持续 1 天</description>
-    </item>
-    <item>
-      <title>Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑</title>
-      <link>https://www.qbitai.com/2026/10/504415.html</link>
-      <guid>https://www.qbitai.com/2026/10/504415.html</guid>
-      <pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261021-042｜收录日期：2026-10-21｜持续 1 天</description>
-    </item>
-    <item>
-      <title>赛豆首款AI汽车公告图公示，价格被按零件猜到了20万以上</title>
-      <link>https://www.qbitai.com/2026/10/504395.html</link>
-      <guid>https://www.qbitai.com/2026/10/504395.html</guid>
-      <pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261021-043｜收录日期：2026-10-21｜持续 1 天</description>
-    </item>
-    <item>
-      <title>AI硬件出海，别当“背景板”，GTC2026 Shanghai「AI硬件专区」邀你占位</title>
-      <link>https://www.qbitai.com/2026/10/504372.html</link>
-      <guid>https://www.qbitai.com/2026/10/504372.html</guid>
-      <pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261021-044｜收录日期：2026-10-21｜持续 1 天</description>
-    </item>
-    <item>
-      <title>Jev迎来中国挑战者：StartLux登顶决策模型榜单，还学会了“拿不准再想”</title>
-      <link>https://www.infoq.cn/article/bROfcYFpijQQVBz4NqDi?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/bROfcYFpijQQVBz4NqDi?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261020-001｜收录日期：2026-10-20｜持续 1 天</description>
-    </item>
-    <item>
-      <title>四战短剧：绿泡泡，凭什么，怕什么？</title>
-      <link>https://www.huxiu.com/article/4898762.html</link>
-      <guid>https://www.huxiu.com/article/4898762.html</guid>
-      <pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261020-002｜收录日期：2026-10-20｜持续 1 天</description>
-    </item>
-    <item>
-      <title>Cue一周实测｜给AI配了身份证，却还做不到“随时可用”</title>
-      <link>https://www.huxiu.com/article/4898743.html</link>
-      <guid>https://www.huxiu.com/article/4898743.html</guid>
-      <pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261020-003｜收录日期：2026-10-20｜持续 1 天</description>
-    </item>
-    <item>
-      <title>Salesforce为什么买Listen Labs：AI 访谈、合成用户，市场研究的新链条</title>
-      <link>https://www.huxiu.com/article/4898733.html</link>
-      <guid>https://www.huxiu.com/article/4898733.html</guid>
-      <pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261020-004｜收录日期：2026-10-20｜持续 1 天</description>
-    </item>
-    <item>
-      <title>一眼AI 的App 到底是谁会付费啊</title>
-      <link>https://www.huxiu.com/article/4898723.html</link>
-      <guid>https://www.huxiu.com/article/4898723.html</guid>
-      <pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261020-005｜收录日期：2026-10-20｜持续 1 天</description>
-    </item>
-    <item>
-      <title>品牌AI投资学：模型可以租，学习租不到</title>
-      <link>https://www.huxiu.com/article/4898714.html</link>
-      <guid>https://www.huxiu.com/article/4898714.html</guid>
-      <pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261020-006｜收录日期：2026-10-20｜持续 1 天</description>
     </item>
   </channel>
 </rss>
