@@ -6,6 +6,13 @@
     <description>每日 AI 热点聚合：36氪/少数派/InfoQ/虎嗅/量子位/微信公众号，按天去重，重点覆盖生成视频领域</description>
     <lastBuildDate>Fri, 23 Oct 2026 08:00:00 +0800</lastBuildDate>
     <item>
+      <title>PHP爆雷引发全球紧急“拔网线”，别指望AI拯救互联网</title>
+      <link>https://www.huxiu.com/article/4899519.html</link>
+      <guid>https://www.huxiu.com/article/4899519.html</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261022-037｜收录日期：2026-10-23｜持续 2 天</description>
+    </item>
+    <item>
       <title>AI 到处挖漏洞一整年，终于给人类爆了个大的</title>
       <link>https://www.huxiu.com/article/4899517.html</link>
       <guid>https://www.huxiu.com/article/4899517.html</guid>
@@ -104,256 +111,249 @@
       <description>来源：['虎嗅']｜主题ID：TOP-20261023-013｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型</title>
-      <link>https://www.infoq.cn/article/XxOpQpEMZpdCCYhXxgaE?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/XxOpQpEMZpdCCYhXxgaE?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261022-001｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>用 Claude 给小米电视去广告火了，这届用户开始用 AI 整顿智能硬件</title>
+      <link>https://www.36kr.com/p/4037841110422403</link>
+      <guid>https://www.36kr.com/p/4037841110422403</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['36氪']｜主题ID：TOP-20261023-014｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>当IP把自己封装成AI：卖技能的套利、泡沫与真人壁垒</title>
-      <link>https://www.huxiu.com/article/4899411.html</link>
-      <guid>https://www.huxiu.com/article/4899411.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-002｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>AI房产经纪人，第一单成交了</title>
+      <link>https://www.36kr.com/p/4037778327720835</link>
+      <guid>https://www.36kr.com/p/4037778327720835</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['36氪']｜主题ID：TOP-20261023-015｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>红果与绿泡泡之争，腾讯这次能赢吗？</title>
-      <link>https://www.huxiu.com/article/4899379.html</link>
-      <guid>https://www.huxiu.com/article/4899379.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-003｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？</title>
+      <link>https://www.infoq.cn/article/UmD4aAerZEts8sZ5t791?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/UmD4aAerZEts8sZ5t791?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261023-016｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>中国人能飞，中国AI手机更能干</title>
-      <link>https://www.huxiu.com/article/4899397.html</link>
-      <guid>https://www.huxiu.com/article/4899397.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-004｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>AI Agent 正在改写 CPU 的价值：当 Token 变成行动，算力竞争不再只是拼 GPU</title>
+      <link>https://www.infoq.cn/article/AkDgwN6h72cqUOJ35Zok?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/AkDgwN6h72cqUOJ35Zok?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261023-017｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>3大巨头、19款应用，争抢AI时代的第一张船票</title>
-      <link>https://www.huxiu.com/article/4899386.html</link>
-      <guid>https://www.huxiu.com/article/4899386.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-005｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>PostgreSQL 19 发不出来？AI“找茬”太快，人类修Bug的速度跟不上了</title>
+      <link>https://www.infoq.cn/article/Q6mgHWCSqV6KeZzee3NT?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/Q6mgHWCSqV6KeZzee3NT?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261023-018｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>AI超创”抄袭“首案：《信托追踪者》VS《血誓》，纷争过后，谁来裁定漫剧原创边界？</title>
-      <link>https://www.huxiu.com/article/4899366.html</link>
-      <guid>https://www.huxiu.com/article/4899366.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-006｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>“让Token不空转”，讯飞如何把Agent推进企业核心流程</title>
+      <link>https://www.infoq.cn/article/Lo9TLlRdvy4II38yaex0?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/Lo9TLlRdvy4II38yaex0?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261023-019｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>观察｜AI写的代码，人类来不及审：英伟达1.2万行代码优化Kimi K3，另开新战场？</title>
-      <link>https://www.huxiu.com/article/4899364.html</link>
-      <guid>https://www.huxiu.com/article/4899364.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-007｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>AI 赋能开发，Spotify 月代码变更量翻倍</title>
+      <link>https://www.infoq.cn/article/rVqEbaXeaJ91UWlQF4F9?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/rVqEbaXeaJ91UWlQF4F9?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261023-020｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>全球央行集体评估AI，他们到底在关心什么？</title>
-      <link>https://www.huxiu.com/article/4899354.html</link>
-      <guid>https://www.huxiu.com/article/4899354.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-008｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进</title>
+      <link>https://www.infoq.cn/article/6EJRFIef67xr3x6vyCJa?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/6EJRFIef67xr3x6vyCJa?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261023-021｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>AI移植游戏爆了，手游厂商该慌了</title>
-      <link>https://www.huxiu.com/article/4899328.html</link>
-      <guid>https://www.huxiu.com/article/4899328.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-009｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>GitLab 19.4 发布，新增目标驱动型智能体，强化成本控制</title>
+      <link>https://www.infoq.cn/article/c6KGCCmGuad5wbAcCG61?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/c6KGCCmGuad5wbAcCG61?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261023-022｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>不建议跟风Personal Agent</title>
-      <link>https://www.36kr.com/p/4035658058126464</link>
-      <guid>https://www.36kr.com/p/4035658058126464</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['36氪']｜主题ID：TOP-20261022-010｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>Xcode 27.2 推出对智能体友好、有效减少合并冲突的 JSON 项目配置格式</title>
+      <link>https://www.infoq.cn/article/7ResdjAZYy8yltOh6drM?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/7ResdjAZYy8yltOh6drM?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261023-023｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>刚刚，Claude个人智能体空降，主动找你汇报，突袭Muse和Dot</title>
-      <link>https://www.36kr.com/p/4036270014927749</link>
-      <guid>https://www.36kr.com/p/4036270014927749</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['36氪']｜主题ID：TOP-20261022-011｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>决策模型也有专用推理引擎了：StartLux 开源 Prism，单卡最高提速 5.3 倍</title>
+      <link>https://www.infoq.cn/article/reksyo9EBAcP11Ns2GTO?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/reksyo9EBAcP11Ns2GTO?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261023-024｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>刚刚，黄仁勋柏林震撼演讲，PC已死，AI智能体时代全面爆发</title>
-      <link>https://www.36kr.com/p/4036220967752838</link>
-      <guid>https://www.36kr.com/p/4036220967752838</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['36氪']｜主题ID：TOP-20261022-012｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>讯飞发布新一代端到端交互模型：语音大模型调用量暴涨20倍，端侧已实现约70%云端能力</title>
+      <link>https://www.infoq.cn/article/Md0kdMxGI6flIbZXH1yg?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/Md0kdMxGI6flIbZXH1yg?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261023-025｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>Muse豆包遭集体“拉黑”，AI还能替我办事吗？</title>
-      <link>https://www.36kr.com/p/4035541955384194</link>
-      <guid>https://www.36kr.com/p/4035541955384194</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['36氪']｜主题ID：TOP-20261022-013｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>Foresight AI 正式可用，Gremlin 将智能体引入可靠性工程</title>
+      <link>https://www.infoq.cn/article/2bKQkdiAcGEycHJLYPv5?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/2bKQkdiAcGEycHJLYPv5?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261023-026｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长</title>
-      <link>https://sspai.com/post/115437</link>
-      <guid>https://sspai.com/post/115437</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['少数派']｜主题ID：TOP-20261022-014｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>上下文语言模型：通过自主管理上下文提升性能、降低计算成本</title>
+      <link>https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261023-027｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势</title>
-      <link>https://www.infoq.cn/article/v85ey09UlxhCDH4r3RS3?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/v85ey09UlxhCDH4r3RS3?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261022-015｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能</title>
+      <link>https://www.infoq.cn/article/ViOyxiOSP2ihxuUyg1rD?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/ViOyxiOSP2ihxuUyg1rD?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261023-028｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>面向 Qwen 系列模型线性注意力的高性能优化实践</title>
-      <link>https://www.infoq.cn/article/o9OcWNkkwgKvsZmgY45d?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/o9OcWNkkwgKvsZmgY45d?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261022-016｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>狂揽千亿融资之后，DeepSeek具身投资版图浮出水面</title>
+      <link>https://www.huxiu.com/article/4899976.html</link>
+      <guid>https://www.huxiu.com/article/4899976.html</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261023-029｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>企业有需求，FDE 团队有能力，为什么 AI 项目仍难落地？</title>
-      <link>https://www.infoq.cn/article/Ei2spcFKComKqkPv6osN?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/Ei2spcFKComKqkPv6osN?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261022-017｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>当野心撞上边界，阶跃的未来比手机难造</title>
+      <link>https://www.huxiu.com/article/4899985.html</link>
+      <guid>https://www.huxiu.com/article/4899985.html</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261023-030｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>AI把整个软件生态打成筛子，全栈开发者的至暗时刻</title>
-      <link>https://www.infoq.cn/article/glAvFT7PWdZ53mbgPbgC?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/glAvFT7PWdZ53mbgPbgC?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261022-018｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>算力底座的裂缝：AI存储芯片短缺与美国的政策校准</title>
+      <link>https://www.huxiu.com/article/4899982.html</link>
+      <guid>https://www.huxiu.com/article/4899982.html</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261023-031｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>GitHub 通过 AI 辅助重构，将 Copilot 运行时迁移至 Rust</title>
-      <link>https://www.infoq.cn/article/zGqDWHF8tHDtlYcImAJS?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/zGqDWHF8tHDtlYcImAJS?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261022-019｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>什么？一个人就能训练大模型，指标还能硬刚K3V4？</title>
+      <link>https://www.huxiu.com/article/4899823.html</link>
+      <guid>https://www.huxiu.com/article/4899823.html</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261023-032｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>机器人卖出之后，轮到二开公司赚钱了吗？</title>
-      <link>https://www.huxiu.com/article/4899662.html</link>
-      <guid>https://www.huxiu.com/article/4899662.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-020｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>AI供电遭全方位围剿？20家企业被拖入专利卡位战</title>
+      <link>https://www.huxiu.com/article/4899960.html</link>
+      <guid>https://www.huxiu.com/article/4899960.html</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261023-033｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>“你被AI取代了”：短剧人的2026</title>
-      <link>https://www.huxiu.com/article/4899658.html</link>
-      <guid>https://www.huxiu.com/article/4899658.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-021｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>深度讨论Personal Agent：“最互联网”的AI 命题</title>
+      <link>https://www.huxiu.com/article/4899942.html</link>
+      <guid>https://www.huxiu.com/article/4899942.html</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261023-034｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>DeepSeek融了1000亿，真正的OpenAI来了？</title>
-      <link>https://www.huxiu.com/article/4899657.html</link>
-      <guid>https://www.huxiu.com/article/4899657.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-022｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>AI助理争夺战：解析Muse、Grok Bot与Instinct背后的产品布局、入口生意与盈利难题</title>
+      <link>https://www.huxiu.com/article/4899828.html</link>
+      <guid>https://www.huxiu.com/article/4899828.html</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261023-035｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>南威软件4天3板后遭监管警示：股票跌停，实控人近两年套现超5亿</title>
-      <link>https://www.huxiu.com/article/4899656.html</link>
-      <guid>https://www.huxiu.com/article/4899656.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-023｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>让AI替你花钱，Muse带火的这波风潮能刮多久？</title>
+      <link>https://www.huxiu.com/article/4899934.html</link>
+      <guid>https://www.huxiu.com/article/4899934.html</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261023-036｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>AI 更懂内容之后，什么才值得被看见？</title>
-      <link>https://www.huxiu.com/article/4899653.html</link>
-      <guid>https://www.huxiu.com/article/4899653.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-024｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>浦江科技评论｜AI重塑文创：从创作工具到生产系统</title>
+      <link>https://www.huxiu.com/article/4899916.html</link>
+      <guid>https://www.huxiu.com/article/4899916.html</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261023-037｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>当AI开始陪伴孩子，育儿最该守住的底线是什么？</title>
-      <link>https://www.huxiu.com/article/4899648.html</link>
-      <guid>https://www.huxiu.com/article/4899648.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-025｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>AI信徒王兴兴一段话，宇树涨了54%，但考验在后面</title>
+      <link>https://www.huxiu.com/article/4899911.html</link>
+      <guid>https://www.huxiu.com/article/4899911.html</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261023-038｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>特朗普与六巨头的“AI宪法”，布鲁金斯为何痛批是“废纸”</title>
-      <link>https://www.huxiu.com/article/4899640.html</link>
-      <guid>https://www.huxiu.com/article/4899640.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-026｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>AI短剧出海记：跑得更快了，钱却没多赚？</title>
+      <link>https://www.huxiu.com/article/4899896.html</link>
+      <guid>https://www.huxiu.com/article/4899896.html</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261023-039｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>毛草乐园的AI潮玩还没摆上货架，就拿到红杉中国的钱</title>
-      <link>https://www.huxiu.com/article/4899623.html</link>
-      <guid>https://www.huxiu.com/article/4899623.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-027｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>Claude 偷砍额度被抓包，AI 会员正在集体变成“鬼秤”</title>
+      <link>https://www.huxiu.com/article/4899883.html</link>
+      <guid>https://www.huxiu.com/article/4899883.html</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261023-040｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>利润暴跌四成，也挡不住马斯克的AI野心</title>
-      <link>https://www.huxiu.com/article/4899618.html</link>
-      <guid>https://www.huxiu.com/article/4899618.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-028｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>188天就退场，大厂AI 产品正在加速洗牌</title>
+      <link>https://www.huxiu.com/article/4899844.html</link>
+      <guid>https://www.huxiu.com/article/4899844.html</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261023-041｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>半年亏掉807亿美元？美国AI一哥，也在用力地活着</title>
-      <link>https://www.huxiu.com/article/4899615.html</link>
-      <guid>https://www.huxiu.com/article/4899615.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-029｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>易启未来：AI按摩机器人撬动银发消费？</title>
+      <link>https://www.huxiu.com/article/4899809.html</link>
+      <guid>https://www.huxiu.com/article/4899809.html</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261023-042｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>3年价格翻3倍！普通人快买不起的硬盘，AI正在批量扫货</title>
-      <link>https://www.huxiu.com/article/4899595.html</link>
-      <guid>https://www.huxiu.com/article/4899595.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-030｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>游戏之后，我们要开始担心孩子对AI上瘾吗？</title>
+      <link>https://www.huxiu.com/article/4899807.html</link>
+      <guid>https://www.huxiu.com/article/4899807.html</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261023-043｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>通威、卡奥斯、万和新电气：AI如何进入研发、制造与维保？｜502线上同行</title>
-      <link>https://www.huxiu.com/article/4899240.html</link>
-      <guid>https://www.huxiu.com/article/4899240.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-031｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>比尔·盖茨最新访谈：AI 是有史以来最危险的技术，未来20年将是人类最动荡的转型期</title>
+      <link>https://www.huxiu.com/article/4899760.html</link>
+      <guid>https://www.huxiu.com/article/4899760.html</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261023-044｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>AI拉大外贸20强差距：南京出局武汉补位，苏州甩开北京近3000亿元</title>
-      <link>https://www.huxiu.com/article/4899585.html</link>
-      <guid>https://www.huxiu.com/article/4899585.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-032｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>我好像陷入了某种，AI时代的虚无主义。</title>
+      <link>https://www.huxiu.com/article/4899768.html</link>
+      <guid>https://www.huxiu.com/article/4899768.html</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261023-045｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>Anthropic 祭出全新治理架构：重新定义 AI 公司的资本规则</title>
-      <link>https://www.huxiu.com/article/4899573.html</link>
-      <guid>https://www.huxiu.com/article/4899573.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-033｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>7年心血恐被AI抢先，数学家带两名中国博士生，3天赶出95页论文</title>
+      <link>https://www.huxiu.com/article/4899766.html</link>
+      <guid>https://www.huxiu.com/article/4899766.html</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261023-046｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>黄仁勋推出AI“预制菜”</title>
-      <link>https://www.huxiu.com/article/4899568.html</link>
-      <guid>https://www.huxiu.com/article/4899568.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-034｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>AI漫剧的老板们在给算力打工</title>
+      <link>https://www.huxiu.com/article/4899765.html</link>
+      <guid>https://www.huxiu.com/article/4899765.html</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261023-047｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
     <item>
-      <title>AI时代的劳动力市场，还能正常运转吗？</title>
-      <link>https://www.huxiu.com/article/4899534.html</link>
-      <guid>https://www.huxiu.com/article/4899534.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-035｜收录日期：2026-10-22｜持续 1 天</description>
-    </item>
-    <item>
-      <title>撬开万亿 AI 硬件市场，一副普通眼镜刚刚好</title>
-      <link>https://www.huxiu.com/article/4899533.html</link>
-      <guid>https://www.huxiu.com/article/4899533.html</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261022-036｜收录日期：2026-10-22｜持续 1 天</description>
+      <title>AI短剧火疯了，赢家却没几个</title>
+      <link>https://www.huxiu.com/article/4899741.html</link>
+      <guid>https://www.huxiu.com/article/4899741.html</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261023-048｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
   </channel>
 </rss>
