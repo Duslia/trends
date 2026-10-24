@@ -4,20 +4,55 @@
     <title>AI 热点日报</title>
     <link>https://duslia.github.io/trends/rss.xml</link>
     <description>每日 AI 热点聚合：36氪/少数派/InfoQ/虎嗅/量子位/微信公众号，按天去重，重点覆盖生成视频领域</description>
-    <lastBuildDate>Sat, 24 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <item>
+      <title>AI助理争夺战：解析Muse、Grok Bot与Instinct背后的产品布局、入口生意与盈利难题</title>
+      <link>https://www.huxiu.com/article/4899828.html</link>
+      <guid>https://www.huxiu.com/article/4899828.html</guid>
+      <pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261023-035｜收录日期：2026-10-25｜持续 3 天</description>
+    </item>
+    <item>
+      <title>独家｜字节AI应用再整合：小云雀并入即梦</title>
+      <link>https://www.36kr.com/p/4039677577122946</link>
+      <guid>https://www.36kr.com/p/4039677577122946</guid>
+      <pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['36氪']｜主题ID：TOP-20261025-001｜收录日期：2026-10-25｜持续 1 天</description>
+    </item>
+    <item>
+      <title>刚刚，Kimi K3.1 Pro杀进全球前四，Agent第一</title>
+      <link>https://www.36kr.com/p/4039469378163840</link>
+      <guid>https://www.36kr.com/p/4039469378163840</guid>
+      <pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['36氪']｜主题ID：TOP-20261025-002｜收录日期：2026-10-25｜持续 1 天</description>
+    </item>
+    <item>
+      <title>“黑色十月”席卷全球互联网，AI正彻底掀翻网络安全牌桌？</title>
+      <link>https://www.huxiu.com/article/4900198.html</link>
+      <guid>https://www.huxiu.com/article/4900198.html</guid>
+      <pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261025-003｜收录日期：2026-10-25｜持续 1 天</description>
+    </item>
+    <item>
+      <title>亚马逊CEO 深度访谈：一年砸下2200亿美元，为什么算力依然不够用？</title>
+      <link>https://www.huxiu.com/article/4900187.html</link>
+      <guid>https://www.huxiu.com/article/4900187.html</guid>
+      <pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261025-004｜收录日期：2026-10-25｜持续 1 天</description>
+    </item>
+    <item>
+      <title>不变的面孔、简化的文明：首部院线AI长片的理想与失落</title>
+      <link>https://www.huxiu.com/article/4900206.html</link>
+      <guid>https://www.huxiu.com/article/4900206.html</guid>
+      <pubDate>Sun, 25 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261025-005｜收录日期：2026-10-25｜持续 1 天</description>
+    </item>
     <item>
       <title>PHP爆雷引发全球紧急“拔网线”，别指望AI拯救互联网</title>
       <link>https://www.huxiu.com/article/4899519.html</link>
       <guid>https://www.huxiu.com/article/4899519.html</guid>
       <pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate>
       <description>来源：['虎嗅']｜主题ID：TOP-20261022-037｜收录日期：2026-10-24｜持续 3 天</description>
-    </item>
-    <item>
-      <title>AI助理争夺战：解析Muse、Grok Bot与Instinct背后的产品布局、入口生意与盈利难题</title>
-      <link>https://www.huxiu.com/article/4899828.html</link>
-      <guid>https://www.huxiu.com/article/4899828.html</guid>
-      <pubDate>Sat, 24 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261023-035｜收录日期：2026-10-24｜持续 2 天</description>
     </item>
     <item>
       <title>AI疯狂复制抖音“厦门帮”，日产200条视频、一条成本不到5元</title>
@@ -319,41 +354,6 @@
       <guid>https://www.infoq.cn/article/UmD4aAerZEts8sZ5t791?utm_source=rss&amp;utm_medium=article</guid>
       <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
       <description>来源：['InfoQ']｜主题ID：TOP-20261023-016｜收录日期：2026-10-23｜持续 1 天</description>
-    </item>
-    <item>
-      <title>AI Agent 正在改写 CPU 的价值：当 Token 变成行动，算力竞争不再只是拼 GPU</title>
-      <link>https://www.infoq.cn/article/AkDgwN6h72cqUOJ35Zok?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/AkDgwN6h72cqUOJ35Zok?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261023-017｜收录日期：2026-10-23｜持续 1 天</description>
-    </item>
-    <item>
-      <title>PostgreSQL 19 发不出来？AI“找茬”太快，人类修Bug的速度跟不上了</title>
-      <link>https://www.infoq.cn/article/Q6mgHWCSqV6KeZzee3NT?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/Q6mgHWCSqV6KeZzee3NT?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261023-018｜收录日期：2026-10-23｜持续 1 天</description>
-    </item>
-    <item>
-      <title>“让Token不空转”，讯飞如何把Agent推进企业核心流程</title>
-      <link>https://www.infoq.cn/article/Lo9TLlRdvy4II38yaex0?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/Lo9TLlRdvy4II38yaex0?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261023-019｜收录日期：2026-10-23｜持续 1 天</description>
-    </item>
-    <item>
-      <title>AI 赋能开发，Spotify 月代码变更量翻倍</title>
-      <link>https://www.infoq.cn/article/rVqEbaXeaJ91UWlQF4F9?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/rVqEbaXeaJ91UWlQF4F9?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261023-020｜收录日期：2026-10-23｜持续 1 天</description>
-    </item>
-    <item>
-      <title>千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进</title>
-      <link>https://www.infoq.cn/article/6EJRFIef67xr3x6vyCJa?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/6EJRFIef67xr3x6vyCJa?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261023-021｜收录日期：2026-10-23｜持续 1 天</description>
     </item>
   </channel>
 </rss>
