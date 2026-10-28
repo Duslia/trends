@@ -4,7 +4,133 @@
     <title>AI 热点日报</title>
     <link>https://duslia.github.io/trends/rss.xml</link>
     <description>每日 AI 热点聚合：36氪/少数派/InfoQ/虎嗅/量子位/微信公众号，按天去重，重点覆盖生成视频领域</description>
-    <lastBuildDate>Wed, 28 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <item>
+      <title>不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程</title>
+      <link>https://www.infoq.cn/article/0tgCLAMXFiFo0Dco5P9m?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/0tgCLAMXFiFo0Dco5P9m?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261029-001｜收录日期：2026-10-29｜持续 1 天</description>
+    </item>
+    <item>
+      <title>别再只写提示词了，开始真正雇用智能体：智能体企业管理实践 ｜ 技术实践</title>
+      <link>https://www.infoq.cn/article/II91QKxeaEg7RuZR2rrf?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/II91QKxeaEg7RuZR2rrf?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261029-002｜收录日期：2026-10-29｜持续 1 天</description>
+    </item>
+    <item>
+      <title>当 AI 智能体代表用户行动时，企业治理将面临哪些新问题？ ｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/CxWoiprQltg8YXmwmghd?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/CxWoiprQltg8YXmwmghd?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261029-003｜收录日期：2026-10-29｜持续 1 天</description>
+    </item>
+    <item>
+      <title>Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%</title>
+      <link>https://www.infoq.cn/article/bXKVgLdpf7HONYHIi6Su?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/bXKVgLdpf7HONYHIi6Su?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261029-004｜收录日期：2026-10-29｜持续 1 天</description>
+    </item>
+    <item>
+      <title>谷歌 Antigravity SDK 新增本地模型支持，提升 Token 效率和代码隐私性</title>
+      <link>https://www.infoq.cn/article/TusFJkx6F151otgzliu2?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/TusFJkx6F151otgzliu2?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261029-005｜收录日期：2026-10-29｜持续 1 天</description>
+    </item>
+    <item>
+      <title>国家算力枢纽，为什么是这八个地方？</title>
+      <link>https://www.huxiu.com/article/4901262.html</link>
+      <guid>https://www.huxiu.com/article/4901262.html</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261029-006｜收录日期：2026-10-29｜持续 1 天</description>
+    </item>
+    <item>
+      <title>Anthropic，正在用AI创造一种全新的企业组织</title>
+      <link>https://www.huxiu.com/article/4901261.html</link>
+      <guid>https://www.huxiu.com/article/4901261.html</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261029-007｜收录日期：2026-10-29｜持续 1 天</description>
+    </item>
+    <item>
+      <title>9.5万大学生和37万高中生的使用数据，暴露了AI 时代真正的分水岭</title>
+      <link>https://www.huxiu.com/article/4901257.html</link>
+      <guid>https://www.huxiu.com/article/4901257.html</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261029-008｜收录日期：2026-10-29｜持续 1 天</description>
+    </item>
+    <item>
+      <title>红果开始给自己踩刹车了</title>
+      <link>https://www.huxiu.com/article/4901253.html</link>
+      <guid>https://www.huxiu.com/article/4901253.html</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261029-009｜收录日期：2026-10-29｜持续 1 天</description>
+    </item>
+    <item>
+      <title>人工智能就业风险审查：国务院“软意见”背后的硬治理转向</title>
+      <link>https://www.huxiu.com/article/4901248.html</link>
+      <guid>https://www.huxiu.com/article/4901248.html</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261029-010｜收录日期：2026-10-29｜持续 1 天</description>
+    </item>
+    <item>
+      <title>中国AI 最有权力的数据掌舵人：8家公司，11位核心负责人</title>
+      <link>https://www.huxiu.com/article/4901243.html</link>
+      <guid>https://www.huxiu.com/article/4901243.html</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261029-011｜收录日期：2026-10-29｜持续 1 天</description>
+    </item>
+    <item>
+      <title>95后清华助理教授让AI自我进化，不到半年融资4亿</title>
+      <link>https://www.huxiu.com/article/4901145.html</link>
+      <guid>https://www.huxiu.com/article/4901145.html</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261029-012｜收录日期：2026-10-29｜持续 1 天</description>
+    </item>
+    <item>
+      <title>老干妈用AI就裁员的传闻，戳中餐饮业真实焦虑</title>
+      <link>https://www.huxiu.com/article/4901223.html</link>
+      <guid>https://www.huxiu.com/article/4901223.html</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261029-013｜收录日期：2026-10-29｜持续 1 天</description>
+    </item>
+    <item>
+      <title>AI裁员背后：消失的不只是工作，还有年轻人的机会</title>
+      <link>https://www.huxiu.com/article/4901217.html</link>
+      <guid>https://www.huxiu.com/article/4901217.html</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261029-014｜收录日期：2026-10-29｜持续 1 天</description>
+    </item>
+    <item>
+      <title>蒋余浩：AI发展最大的误区，是把“取代人”当成进步</title>
+      <link>https://www.huxiu.com/article/4901196.html</link>
+      <guid>https://www.huxiu.com/article/4901196.html</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261029-015｜收录日期：2026-10-29｜持续 1 天</description>
+    </item>
+    <item>
+      <title>“这种模式我们见过”，大空头交易员详解：为何做空AI新贵CoreWeave</title>
+      <link>https://www.huxiu.com/article/4901194.html</link>
+      <guid>https://www.huxiu.com/article/4901194.html</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261029-016｜收录日期：2026-10-29｜持续 1 天</description>
+    </item>
+    <item>
+      <title>“软件已死”？独立开发大佬退订几乎所有工作软件：要啥让AI造</title>
+      <link>https://www.huxiu.com/article/4901193.html</link>
+      <guid>https://www.huxiu.com/article/4901193.html</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261029-017｜收录日期：2026-10-29｜持续 1 天</description>
+    </item>
+    <item>
+      <title>“老登”企业，得学会夹起尾巴用AI</title>
+      <link>https://www.huxiu.com/article/4901175.html</link>
+      <guid>https://www.huxiu.com/article/4901175.html</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261029-018｜收录日期：2026-10-29｜持续 1 天</description>
+    </item>
     <item>
       <title>杨振宁当年的遗憾，被OpenAI补上了?</title>
       <link>https://www.36kr.com/p/4043775631381385</link>
@@ -228,132 +354,6 @@
       <guid>https://www.huxiu.com/article/4900795.html</guid>
       <pubDate>Wed, 28 Oct 2026 08:00:00 +0800</pubDate>
       <description>来源：['虎嗅']｜主题ID：TOP-20261028-032｜收录日期：2026-10-28｜持续 1 天</description>
-    </item>
-    <item>
-      <title>Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019</title>
-      <link>https://www.qbitai.com/2026/10/505928.html</link>
-      <guid>https://www.qbitai.com/2026/10/505928.html</guid>
-      <pubDate>Wed, 28 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261028-033｜收录日期：2026-10-28｜持续 1 天</description>
-    </item>
-    <item>
-      <title>乔布斯的皮克斯，狂赞中国物理AI数据终端</title>
-      <link>https://www.qbitai.com/2026/10/505830.html</link>
-      <guid>https://www.qbitai.com/2026/10/505830.html</guid>
-      <pubDate>Wed, 28 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261028-034｜收录日期：2026-10-28｜持续 1 天</description>
-    </item>
-    <item>
-      <title>Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了</title>
-      <link>https://www.qbitai.com/2026/10/505799.html</link>
-      <guid>https://www.qbitai.com/2026/10/505799.html</guid>
-      <pubDate>Wed, 28 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261028-035｜收录日期：2026-10-28｜持续 1 天</description>
-    </item>
-    <item>
-      <title>国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6</title>
-      <link>https://www.qbitai.com/2026/10/505694.html</link>
-      <guid>https://www.qbitai.com/2026/10/505694.html</guid>
-      <pubDate>Wed, 28 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261028-036｜收录日期：2026-10-28｜持续 1 天</description>
-    </item>
-    <item>
-      <title>做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026</title>
-      <link>https://www.qbitai.com/2026/10/505687.html</link>
-      <guid>https://www.qbitai.com/2026/10/505687.html</guid>
-      <pubDate>Wed, 28 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261028-037｜收录日期：2026-10-28｜持续 1 天</description>
-    </item>
-    <item>
-      <title>OpenAI“招安”孙宇晨</title>
-      <link>https://www.36kr.com/p/4042458701910919</link>
-      <guid>https://www.36kr.com/p/4042458701910919</guid>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['36氪']｜主题ID：TOP-20261027-001｜收录日期：2026-10-27｜持续 1 天</description>
-    </item>
-    <item>
-      <title>当知识不再稀缺：大模型时代企业知识管理的四重风险</title>
-      <link>https://www.huxiu.com/article/4900646.html</link>
-      <guid>https://www.huxiu.com/article/4900646.html</guid>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261027-002｜收录日期：2026-10-27｜持续 1 天</description>
-    </item>
-    <item>
-      <title>AI 时代的学习，美国花2650亿教给我们一个道理</title>
-      <link>https://www.huxiu.com/article/4900636.html</link>
-      <guid>https://www.huxiu.com/article/4900636.html</guid>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261027-003｜收录日期：2026-10-27｜持续 1 天</description>
-    </item>
-    <item>
-      <title>Anthropic招股书深度解读：世界最大的AI公司自己亲手挤泡沫</title>
-      <link>https://www.huxiu.com/article/4900631.html</link>
-      <guid>https://www.huxiu.com/article/4900631.html</guid>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261027-004｜收录日期：2026-10-27｜持续 1 天</description>
-    </item>
-    <item>
-      <title>硅谷AI巨头，急需创新药研发证明自己</title>
-      <link>https://www.huxiu.com/article/4900630.html</link>
-      <guid>https://www.huxiu.com/article/4900630.html</guid>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261027-005｜收录日期：2026-10-27｜持续 1 天</description>
-    </item>
-    <item>
-      <title>“不烧心”的AI和“预制菜”的人类：当不受伤害成为赞美</title>
-      <link>https://www.huxiu.com/article/4900613.html</link>
-      <guid>https://www.huxiu.com/article/4900613.html</guid>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261027-006｜收录日期：2026-10-27｜持续 1 天</description>
-    </item>
-    <item>
-      <title>AI 大战，欧洲急了</title>
-      <link>https://www.huxiu.com/article/4900610.html</link>
-      <guid>https://www.huxiu.com/article/4900610.html</guid>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261027-007｜收录日期：2026-10-27｜持续 1 天</description>
-    </item>
-    <item>
-      <title>分享下我用AI 生成HTML 动画的提示词。</title>
-      <link>https://www.huxiu.com/article/4900590.html</link>
-      <guid>https://www.huxiu.com/article/4900590.html</guid>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261027-008｜收录日期：2026-10-27｜持续 1 天</description>
-    </item>
-    <item>
-      <title>只看一张脸，AI预测的死亡名单，90天后应验了一半</title>
-      <link>https://www.huxiu.com/article/4900579.html</link>
-      <guid>https://www.huxiu.com/article/4900579.html</guid>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261027-009｜收录日期：2026-10-27｜持续 1 天</description>
-    </item>
-    <item>
-      <title>被看衰的HDD，凭什么成了AI 的“数据终点站”？</title>
-      <link>https://www.huxiu.com/article/4900578.html</link>
-      <guid>https://www.huxiu.com/article/4900578.html</guid>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261027-010｜收录日期：2026-10-27｜持续 1 天</description>
-    </item>
-    <item>
-      <title>上映3日仅收获百万票房，首部AI院线电影为何遇冷？</title>
-      <link>https://www.huxiu.com/article/4900569.html</link>
-      <guid>https://www.huxiu.com/article/4900569.html</guid>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261027-011｜收录日期：2026-10-27｜持续 1 天</description>
-    </item>
-    <item>
-      <title>从稳定币到AI智能体，美国试图把美元优势带入机器经济</title>
-      <link>https://www.huxiu.com/article/4900565.html</link>
-      <guid>https://www.huxiu.com/article/4900565.html</guid>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261027-012｜收录日期：2026-10-27｜持续 1 天</description>
-    </item>
-    <item>
-      <title>硅谷AI巨头的梦想和恐惧</title>
-      <link>https://www.huxiu.com/article/4900563.html</link>
-      <guid>https://www.huxiu.com/article/4900563.html</guid>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261027-013｜收录日期：2026-10-27｜持续 1 天</description>
     </item>
   </channel>
 </rss>
