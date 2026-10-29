@@ -4,7 +4,70 @@
     <title>AI 热点日报</title>
     <link>https://duslia.github.io/trends/rss.xml</link>
     <description>每日 AI 热点聚合：36氪/少数派/InfoQ/虎嗅/量子位/微信公众号，按天去重，重点覆盖生成视频领域</description>
-    <lastBuildDate>Thu, 29 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <item>
+      <title>谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价</title>
+      <link>https://www.infoq.cn/article/dXwHCW7kjGX1kjPqtla9?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/dXwHCW7kjGX1kjPqtla9?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Fri, 30 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261030-001｜收录日期：2026-10-30｜持续 1 天</description>
+    </item>
+    <item>
+      <title>一刷起来至少两小时，全网戒不掉的红果怕“捧杀”</title>
+      <link>https://www.huxiu.com/article/4901545.html</link>
+      <guid>https://www.huxiu.com/article/4901545.html</guid>
+      <pubDate>Fri, 30 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261030-002｜收录日期：2026-10-30｜持续 1 天</description>
+    </item>
+    <item>
+      <title>中国开源模型被“打回原形”了吗</title>
+      <link>https://www.huxiu.com/article/4901530.html</link>
+      <guid>https://www.huxiu.com/article/4901530.html</guid>
+      <pubDate>Fri, 30 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261030-003｜收录日期：2026-10-30｜持续 1 天</description>
+    </item>
+    <item>
+      <title>绿泡泡慢慢长大</title>
+      <link>https://www.huxiu.com/article/4901511.html</link>
+      <guid>https://www.huxiu.com/article/4901511.html</guid>
+      <pubDate>Fri, 30 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261030-004｜收录日期：2026-10-30｜持续 1 天</description>
+    </item>
+    <item>
+      <title>Anthropic 上市，给 AI 公司立一把尺子</title>
+      <link>https://www.huxiu.com/article/4901507.html</link>
+      <guid>https://www.huxiu.com/article/4901507.html</guid>
+      <pubDate>Fri, 30 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261030-005｜收录日期：2026-10-30｜持续 1 天</description>
+    </item>
+    <item>
+      <title>AI眼镜，开始看你的眼色？</title>
+      <link>https://www.huxiu.com/article/4901364.html</link>
+      <guid>https://www.huxiu.com/article/4901364.html</guid>
+      <pubDate>Fri, 30 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261030-006｜收录日期：2026-10-30｜持续 1 天</description>
+    </item>
+    <item>
+      <title>威卡：用数据集链接具身智能和工程机械</title>
+      <link>https://www.qbitai.com/2026/10/506063.html</link>
+      <guid>https://www.qbitai.com/2026/10/506063.html</guid>
+      <pubDate>Fri, 30 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['量子位']｜主题ID：TOP-20261030-007｜收录日期：2026-10-30｜持续 1 天</description>
+    </item>
+    <item>
+      <title>19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板</title>
+      <link>https://www.qbitai.com/2026/10/506055.html</link>
+      <guid>https://www.qbitai.com/2026/10/506055.html</guid>
+      <pubDate>Fri, 30 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['量子位']｜主题ID：TOP-20261030-008｜收录日期：2026-10-30｜持续 1 天</description>
+    </item>
+    <item>
+      <title>0营收估值200亿美元，具身版OpenAI又融10亿美元</title>
+      <link>https://www.qbitai.com/2026/10/506042.html</link>
+      <guid>https://www.qbitai.com/2026/10/506042.html</guid>
+      <pubDate>Fri, 30 Oct 2026 08:00:00 +0800</pubDate>
+      <description>来源：['量子位']｜主题ID：TOP-20261030-009｜收录日期：2026-10-30｜持续 1 天</description>
+    </item>
     <item>
       <title>不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程</title>
       <link>https://www.infoq.cn/article/0tgCLAMXFiFo0Dco5P9m?utm_source=rss&amp;utm_medium=article</link>
@@ -291,69 +354,6 @@
       <guid>https://www.huxiu.com/article/4901331.html</guid>
       <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
       <description>来源：['虎嗅']｜主题ID：TOP-20261029-041｜收录日期：2026-10-29｜持续 1 天</description>
-    </item>
-    <item>
-      <title>AI时代可能催生很多不那么AI的工作机会</title>
-      <link>https://www.huxiu.com/article/4901305.html</link>
-      <guid>https://www.huxiu.com/article/4901305.html</guid>
-      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261029-042｜收录日期：2026-10-29｜持续 1 天</description>
-    </item>
-    <item>
-      <title>借助AI，老干妈一年营收54亿</title>
-      <link>https://www.huxiu.com/article/4901301.html</link>
-      <guid>https://www.huxiu.com/article/4901301.html</guid>
-      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261029-043｜收录日期：2026-10-29｜持续 1 天</description>
-    </item>
-    <item>
-      <title>公司以AI之名拿走了她的工作后，她最信任的AI让她丢了性命</title>
-      <link>https://www.huxiu.com/article/4901296.html</link>
-      <guid>https://www.huxiu.com/article/4901296.html</guid>
-      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261029-044｜收录日期：2026-10-29｜持续 1 天</description>
-    </item>
-    <item>
-      <title>魏尚进对话谢丹夏、刘楚：AI开源是门什么生意？一场关于AI竞争与未来十年的对话</title>
-      <link>https://www.huxiu.com/article/4901293.html</link>
-      <guid>https://www.huxiu.com/article/4901293.html</guid>
-      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261029-045｜收录日期：2026-10-29｜持续 1 天</description>
-    </item>
-    <item>
-      <title>OpenAI联合创始人：全球只有5000人站在AI最前沿……</title>
-      <link>https://www.huxiu.com/article/4901290.html</link>
-      <guid>https://www.huxiu.com/article/4901290.html</guid>
-      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261029-046｜收录日期：2026-10-29｜持续 1 天</description>
-    </item>
-    <item>
-      <title>老干妈能用AI，很多企业却卡在“思想障碍”</title>
-      <link>https://www.huxiu.com/article/4901273.html</link>
-      <guid>https://www.huxiu.com/article/4901273.html</guid>
-      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261029-047｜收录日期：2026-10-29｜持续 1 天</description>
-    </item>
-    <item>
-      <title>AI安全是AI规模化应用“加速器”</title>
-      <link>https://www.qbitai.com/2026/10/506544.html</link>
-      <guid>https://www.qbitai.com/2026/10/506544.html</guid>
-      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261029-048｜收录日期：2026-10-29｜持续 1 天</description>
-    </item>
-    <item>
-      <title>奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧</title>
-      <link>https://www.qbitai.com/2026/10/506478.html</link>
-      <guid>https://www.qbitai.com/2026/10/506478.html</guid>
-      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261029-049｜收录日期：2026-10-29｜持续 1 天</description>
-    </item>
-    <item>
-      <title>物理学也要被AI攻陷了？5道20多年量子公开问题被突破</title>
-      <link>https://www.qbitai.com/2026/10/506477.html</link>
-      <guid>https://www.qbitai.com/2026/10/506477.html</guid>
-      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261029-050｜收录日期：2026-10-29｜持续 1 天</description>
     </item>
   </channel>
 </rss>
