@@ -4,7 +4,42 @@
     <title>AI 热点日报</title>
     <link>https://duslia.github.io/trends/rss.xml</link>
     <description>每日 AI 热点聚合：36氪/少数派/InfoQ/虎嗅/量子位/微信公众号，按天去重，重点覆盖生成视频领域</description>
-    <lastBuildDate>Sat, 31 Oct 2026 08:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 08:00:00 +0800</lastBuildDate>
+    <item>
+      <title>芯片的大买主们，快没钱了？</title>
+      <link>https://www.36kr.com/p/4049210811103496</link>
+      <guid>https://www.36kr.com/p/4049210811103496</guid>
+      <pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate>
+      <description>来源：['36氪']｜主题ID：TOP-20261101-001｜收录日期：2026-11-01｜持续 1 天</description>
+    </item>
+    <item>
+      <title>AI 编程导师挑战低端 Android 手机！不用服务器，Python 和 SQL 直接在浏览器里运行</title>
+      <link>https://www.infoq.cn/article/HHgKMMKa8BNZYQuMFSMS?utm_source=rss&amp;utm_medium=article</link>
+      <guid>https://www.infoq.cn/article/HHgKMMKa8BNZYQuMFSMS?utm_source=rss&amp;utm_medium=article</guid>
+      <pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate>
+      <description>来源：['InfoQ']｜主题ID：TOP-20261101-002｜收录日期：2026-11-01｜持续 1 天</description>
+    </item>
+    <item>
+      <title>从选模型到派任务，我的多Agent 工作流走到哪一步</title>
+      <link>https://www.huxiu.com/article/4902023.html</link>
+      <guid>https://www.huxiu.com/article/4902023.html</guid>
+      <pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261101-003｜收录日期：2026-11-01｜持续 1 天</description>
+    </item>
+    <item>
+      <title>当Agent 能同时干活，谁来守住人的注意力</title>
+      <link>https://www.huxiu.com/article/4902022.html</link>
+      <guid>https://www.huxiu.com/article/4902022.html</guid>
+      <pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261101-004｜收录日期：2026-11-01｜持续 1 天</description>
+    </item>
+    <item>
+      <title>内娱进入“大中剧”时代</title>
+      <link>https://www.huxiu.com/article/4902019.html</link>
+      <guid>https://www.huxiu.com/article/4902019.html</guid>
+      <pubDate>Sun, 01 Nov 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261101-005｜收录日期：2026-11-01｜持续 1 天</description>
+    </item>
     <item>
       <title>AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享</title>
       <link>https://www.infoq.cn/article/sCKczimP9lSEl0rgJ7VY?utm_source=rss&amp;utm_medium=article</link>
@@ -319,41 +354,6 @@
       <guid>https://www.infoq.cn/article/ZolBIJdvK5Icdqg6FB0X?utm_source=rss&amp;utm_medium=article</guid>
       <pubDate>Fri, 30 Oct 2026 08:00:00 +0800</pubDate>
       <description>来源：['InfoQ']｜主题ID：TOP-20261030-016｜收录日期：2026-10-30｜持续 1 天</description>
-    </item>
-    <item>
-      <title>2026年AI技术演进与2027年趋势前瞻报告</title>
-      <link>https://www.infoq.cn/minibook/lmVM6XjSDMpMb6QTbK0l?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/minibook/lmVM6XjSDMpMb6QTbK0l?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 30 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261030-017｜收录日期：2026-10-30｜持续 1 天</description>
-    </item>
-    <item>
-      <title>谷歌推出 EnvHarness，支持自进化智能体动态环境学习</title>
-      <link>https://www.infoq.cn/article/FJqN3mFVyN1lMqHOiegs?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/FJqN3mFVyN1lMqHOiegs?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 30 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261030-018｜收录日期：2026-10-30｜持续 1 天</description>
-    </item>
-    <item>
-      <title>腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed</title>
-      <link>https://www.infoq.cn/article/u23wUVUDcFqL7hLBWXuW?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/u23wUVUDcFqL7hLBWXuW?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 30 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261030-019｜收录日期：2026-10-30｜持续 1 天</description>
-    </item>
-    <item>
-      <title>Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力</title>
-      <link>https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 30 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261030-020｜收录日期：2026-10-30｜持续 1 天</description>
-    </item>
-    <item>
-      <title>比尔·盖茨与李录：AI观点的异同</title>
-      <link>https://www.huxiu.com/article/4901772.html</link>
-      <guid>https://www.huxiu.com/article/4901772.html</guid>
-      <pubDate>Fri, 30 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261030-021｜收录日期：2026-10-30｜持续 1 天</description>
     </item>
   </channel>
 </rss>
