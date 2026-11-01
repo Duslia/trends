@@ -4,7 +4,70 @@
     <title>AI 热点日报</title>
     <link>https://duslia.github.io/trends/rss.xml</link>
     <description>每日 AI 热点聚合：36氪/少数派/InfoQ/虎嗅/量子位/微信公众号，按天去重，重点覆盖生成视频领域</description>
-    <lastBuildDate>Sun, 01 Nov 2026 08:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 08:00:00 +0800</lastBuildDate>
+    <item>
+      <title>2800万用户，养不活一个AI陪伴应用</title>
+      <link>https://www.36kr.com/p/4051001127687043</link>
+      <guid>https://www.36kr.com/p/4051001127687043</guid>
+      <pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate>
+      <description>来源：['36氪']｜主题ID：TOP-20261102-001｜收录日期：2026-11-02｜持续 1 天</description>
+    </item>
+    <item>
+      <title>如果AI解开了世界难题，人类数学家还剩下什么？</title>
+      <link>https://www.huxiu.com/article/4902131.html</link>
+      <guid>https://www.huxiu.com/article/4902131.html</guid>
+      <pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261102-002｜收录日期：2026-11-02｜持续 1 天</description>
+    </item>
+    <item>
+      <title>观察｜AI 把双11的算术题撕了，然后给你出了道证明题</title>
+      <link>https://www.huxiu.com/article/4902125.html</link>
+      <guid>https://www.huxiu.com/article/4902125.html</guid>
+      <pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261102-003｜收录日期：2026-11-02｜持续 1 天</description>
+    </item>
+    <item>
+      <title>AI算力驱动，科创板光通信24家企业净利增超五成</title>
+      <link>https://www.huxiu.com/article/4902119.html</link>
+      <guid>https://www.huxiu.com/article/4902119.html</guid>
+      <pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261102-004｜收录日期：2026-11-02｜持续 1 天</description>
+    </item>
+    <item>
+      <title>少有的同时做过Agent、多模态和具身的人</title>
+      <link>https://www.huxiu.com/article/4902115.html</link>
+      <guid>https://www.huxiu.com/article/4902115.html</guid>
+      <pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261102-005｜收录日期：2026-11-02｜持续 1 天</description>
+    </item>
+    <item>
+      <title>你想过没有：既然按成果付费走不通，那AI靠什么收钱？</title>
+      <link>https://www.huxiu.com/article/4902107.html</link>
+      <guid>https://www.huxiu.com/article/4902107.html</guid>
+      <pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261102-006｜收录日期：2026-11-02｜持续 1 天</description>
+    </item>
+    <item>
+      <title>DeepSeek开源Agent架构，想让人少给AI打工</title>
+      <link>https://www.huxiu.com/article/4902105.html</link>
+      <guid>https://www.huxiu.com/article/4902105.html</guid>
+      <pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261102-007｜收录日期：2026-11-02｜持续 1 天</description>
+    </item>
+    <item>
+      <title>宇树上市首份季报：增收不增利，具身智能开始为模型和算力买单</title>
+      <link>https://www.huxiu.com/article/4902103.html</link>
+      <guid>https://www.huxiu.com/article/4902103.html</guid>
+      <pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261102-008｜收录日期：2026-11-02｜持续 1 天</description>
+    </item>
+    <item>
+      <title>AI抄袭者正在全力毁灭游戏行业</title>
+      <link>https://www.huxiu.com/article/4902093.html</link>
+      <guid>https://www.huxiu.com/article/4902093.html</guid>
+      <pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate>
+      <description>来源：['虎嗅']｜主题ID：TOP-20261102-009｜收录日期：2026-11-02｜持续 1 天</description>
+    </item>
     <item>
       <title>芯片的大买主们，快没钱了？</title>
       <link>https://www.36kr.com/p/4049210811103496</link>
@@ -291,69 +354,6 @@
       <guid>https://www.qbitai.com/2026/10/506866.html</guid>
       <pubDate>Sat, 31 Oct 2026 08:00:00 +0800</pubDate>
       <description>来源：['量子位']｜主题ID：TOP-20261031-024｜收录日期：2026-10-31｜持续 1 天</description>
-    </item>
-    <item>
-      <title>榜一，拿来吧你！智元这波双模型杀穿多榜榜单</title>
-      <link>https://www.qbitai.com/2026/10/506819.html</link>
-      <guid>https://www.qbitai.com/2026/10/506819.html</guid>
-      <pubDate>Sat, 31 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261031-025｜收录日期：2026-10-31｜持续 1 天</description>
-    </item>
-    <item>
-      <title>AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！</title>
-      <link>https://www.qbitai.com/2026/10/506785.html</link>
-      <guid>https://www.qbitai.com/2026/10/506785.html</guid>
-      <pubDate>Sat, 31 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261031-026｜收录日期：2026-10-31｜持续 1 天</description>
-    </item>
-    <item>
-      <title>“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”</title>
-      <link>https://www.qbitai.com/2026/10/506779.html</link>
-      <guid>https://www.qbitai.com/2026/10/506779.html</guid>
-      <pubDate>Sat, 31 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261031-027｜收录日期：2026-10-31｜持续 1 天</description>
-    </item>
-    <item>
-      <title>百度 APP 发布四大 AI 升级，搜索已实现递归自我进化</title>
-      <link>https://www.qbitai.com/2026/10/506771.html</link>
-      <guid>https://www.qbitai.com/2026/10/506771.html</guid>
-      <pubDate>Sat, 31 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261031-028｜收录日期：2026-10-31｜持续 1 天</description>
-    </item>
-    <item>
-      <title>好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单</title>
-      <link>https://www.qbitai.com/2026/10/506747.html</link>
-      <guid>https://www.qbitai.com/2026/10/506747.html</guid>
-      <pubDate>Sat, 31 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['量子位']｜主题ID：TOP-20261031-029｜收录日期：2026-10-31｜持续 1 天</description>
-    </item>
-    <item>
-      <title>谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价</title>
-      <link>https://www.infoq.cn/article/dXwHCW7kjGX1kjPqtla9?utm_source=rss&amp;utm_medium=article</link>
-      <guid>https://www.infoq.cn/article/dXwHCW7kjGX1kjPqtla9?utm_source=rss&amp;utm_medium=article</guid>
-      <pubDate>Fri, 30 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['InfoQ']｜主题ID：TOP-20261030-001｜收录日期：2026-10-30｜持续 1 天</description>
-    </item>
-    <item>
-      <title>一刷起来至少两小时，全网戒不掉的红果怕“捧杀”</title>
-      <link>https://www.huxiu.com/article/4901545.html</link>
-      <guid>https://www.huxiu.com/article/4901545.html</guid>
-      <pubDate>Fri, 30 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261030-002｜收录日期：2026-10-30｜持续 1 天</description>
-    </item>
-    <item>
-      <title>中国开源模型被“打回原形”了吗</title>
-      <link>https://www.huxiu.com/article/4901530.html</link>
-      <guid>https://www.huxiu.com/article/4901530.html</guid>
-      <pubDate>Fri, 30 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261030-003｜收录日期：2026-10-30｜持续 1 天</description>
-    </item>
-    <item>
-      <title>绿泡泡慢慢长大</title>
-      <link>https://www.huxiu.com/article/4901511.html</link>
-      <guid>https://www.huxiu.com/article/4901511.html</guid>
-      <pubDate>Fri, 30 Oct 2026 08:00:00 +0800</pubDate>
-      <description>来源：['虎嗅']｜主题ID：TOP-20261030-004｜收录日期：2026-10-30｜持续 1 天</description>
     </item>
   </channel>
 </rss>
